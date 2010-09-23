@@ -1,7 +1,17 @@
-1. Grabar [Aka], [Ala], [Ama], [Apa], [Asa]
-2. Grabar [akA], [alA], [amA], [apA], [asA]
-3. En un TextGrid, para cada grabacion, marcar los difonos
-4. Guardar los sonidos y los TextGrid
-5. Abrir los sonidos como LongSounds en Praat
-6. Seleccionar un LongSound y su respectivo TextGrid
-5. Ejecutar el script con Praat (ir a 5 si queda otro sonido por recortar)
+1. Se necesitan los dífonos:
+    ak, al, am, ap, as,
+    Ak, Al, Am, Ap, As,
+    ka, la, ma, pa, sa,
+    kA, lA, mA, pA, sA,
+    -a, -k, -l, -m, -p y -s.
+
+    Decir las frases:
+    - takAma (ak, kA, Am)
+    - tAkama (Ak, ka, am)
+    - talAma (al, lA, ...
+
+2. En un TextGrid, para cada grabacion, marcar los difonos
+3. Guardar los sonidos y los TextGrid
+4. Abrir los sonidos como LongSounds en Praat
+5. Seleccionar un LongSound y su respectivo TextGrid
+6. Ejecutar el script con Praat (ir a 5 si queda otro sonido por recortar)
