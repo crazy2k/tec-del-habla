@@ -2,4 +2,6 @@
 2. Grabar [akA], [alA], [amA], [apA], [asA]
 3. En un TextGrid, para cada grabacion, marcar los difonos
 4. Guardar los sonidos y los TextGrid
-5. Ejecutar el script con Praat
+5. Abrir los sonidos como LongSounds en Praat
+6. Seleccionar un LongSound y su respectivo TextGrid
+5. Ejecutar el script con Praat (ir a 5 si queda otro sonido por recortar)
