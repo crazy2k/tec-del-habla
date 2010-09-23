@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3125 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "aka" 
+        xmin = 0 
+        xmax = 7.3125 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9273507555209197 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9273507555209197 
+            xmax = 1.3770569980567982 
+            text = "aka" 
+        intervals [3]:
+            xmin = 1.3770569980567982 
+            xmax = 1.683674890694897 
+            text = "" 
+        intervals [4]:
+            xmin = 1.683674890694897 
+            xmax = 2.1878909808108817 
+            text = "ala" 
+        intervals [5]:
+            xmin = 2.1878909808108817 
+            xmax = 2.651224685241787 
+            text = "" 
+        intervals [6]:
+            xmin = 2.651224685241787 
+            xmax = 3.1009309277776653 
+            text = "ama   " 
+        intervals [7]:
+            xmin = 3.1009309277776653 
+            xmax = 3.70735298210635 
+            text = "" 
+        intervals [8]:
+            xmin = 3.70735298210635 
+            xmax = 4.184314148432281 
+            text = "apa" 
+        intervals [9]:
+            xmin = 4.184314148432281 
+            xmax = 4.661275314758213 
+            text = "" 
+        intervals [10]:
+            xmin = 4.661275314758213 
+            xmax = 5.1109815572940915 
+            text = "asa" 
+        intervals [11]:
+            xmin = 5.1109815572940915 
+            xmax = 7.3125 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "difonos" 
+        xmin = 0 
+        xmax = 7.3125 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9286498785683848 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9286498785683848 
+            xmax = 1.176717295525312 
+            text = "Ak" 
+        intervals [3]:
+            xmin = 1.176717295525312 
+            xmax = 1.1788124595198808 
+            text = "" 
+        intervals [4]:
+            xmin = 1.1788124595198808 
+            xmax = 1.3757578750093333 
+            text = "ka" 
+        intervals [5]:
+            xmin = 1.3757578750093333 
+            xmax = 1.685131483202661 
+            text = "" 
+        intervals [6]:
+            xmin = 1.685131483202661 
+            xmax = 1.9153455633331427 
+            text = "Al" 
+        intervals [7]:
+            xmin = 1.9153455633331427 
+            xmax = 1.9186343359064353 
+            text = "" 
+        intervals [8]:
+            xmin = 1.9186343359064353 
+            xmax = 2.1878909808108817 
+            text = "la" 
+        intervals [9]:
+            xmin = 2.1878909808108817 
+            xmax = 2.6550380050827345 
+            text = "" 
+        intervals [10]:
+            xmin = 2.6550380050827345 
+            xmax = 2.868744732528736 
+            text = "Am" 
+        intervals [11]:
+            xmin = 2.868744732528736 
+            xmax = 2.8712589293222184 
+            text = "" 
+        intervals [12]:
+            xmin = 2.8712589293222184 
+            xmax = 3.1009309277776653 
+            text = "ma" 
+        intervals [13]:
+            xmin = 3.1009309277776653 
+            xmax = 3.7145084133235327 
+            text = "" 
+        intervals [14]:
+            xmin = 3.7145084133235327 
+            xmax = 3.9420559210972903 
+            text = "Ap" 
+        intervals [15]:
+            xmin = 3.9420559210972903 
+            xmax = 3.9487223519890997 
+            text = "" 
+        intervals [16]:
+            xmin = 3.9487223519890997 
+            xmax = 4.168270142692687 
+            text = "pa" 
+        intervals [17]:
+            xmin = 4.168270142692687 
+            xmax = 4.680173815360055 
+            text = "" 
+        intervals [18]:
+            xmin = 4.680173815360055 
+            xmax = 4.877538263648421 
+            text = "As" 
+        intervals [19]:
+            xmin = 4.877538263648421 
+            xmax = 4.880052460441903 
+            text = "" 
+        intervals [20]:
+            xmin = 4.880052460441903 
+            xmax = 5.0975304830781285 
+            text = "sa" 
+        intervals [21]:
+            xmin = 5.0975304830781285 
+            xmax = 7.3125 
+            text = "" 
