@@ -10,7 +10,7 @@ FRAMERATE = 16000
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print >> sys.stderr, "Usage: synth.py <sounds dir> <input>"
+        print >> sys.stderr, "Usage: %s <sounds dir> <input>" % sys.argv[0]
         sys.exit(1)
 
     sounds_path = sys.argv[1]
