@@ -16,6 +16,8 @@ if __name__ == "__main__":
     sounds_path = sys.argv[1]
     seq = sys.argv[2]
 
+    seq = "-" + seq + "-"
+
     diphs = [fst + sec for fst, sec in zip(seq, seq[1:])]
 
     pygame.mixer.init(frequency=FRAMERATE)
