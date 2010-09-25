@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-import sys
 import os
-import time
+import sys
 
 import pygame
+
 
 FRAMERATE = 16000
 
