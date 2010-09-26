@@ -57,6 +57,8 @@ if __name__ == "__main__":
     # Procesamiento de la entrada
     #
 
+    # construimos los dífonos
+    seq = "-" + seq + "-"
     diphs = [fst + sec for fst, sec in zip(seq, seq[1:])]
 
     # obtenemos los datos de cada archivo
