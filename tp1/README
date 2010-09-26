@@ -1,0 +1,7 @@
+Sintetizador concatenativo de dífonos
+=====================================
+
+El archivo ``synth.py`` contiene el sintetizador. Al comienzo del mismo puede
+encontrarse la documentación correspondiente al módulo, donde se explica
+brevemente el funcionamiento del sintetizador, se detallan sus requerimientos
+y se indica su modo de uso.
