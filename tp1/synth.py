@@ -1,20 +1,56 @@
 #!/usr/bin/env python
+# coding: utf8
 
+"""
+Sintetizador concatenativo de dífonos
+=====================================
+
+Este programa se encarga de sintetizar palabras de un lenguaje acotado.
+
+Valiéndose de un inventario de sonidos correspondientes a dífonos de un
+lenguaje, este programa genera, a partir de una secuencia de fonemas
+(expresada como una cadena de caracteres), un archivo de sonido con el habla
+sintetizada. Opcionalmente, si se cuenta con la biblioteca pygame instalada,
+permite reproducir el archivo generado.
+
+La secuencia de fonemas de entrada debe estar expresada como una cadena de
+caracteres. Cada caracter corresponderá a un fono del lenguaje.
+
+Los archivos del inventario deben estar en formato WAV y sus nombres deben
+corresponderse con dífonos del lenguaje; por ejemplo, el archivo
+correspondiente al dífono "pa" (por los fonos "p" y "a") debe llamarse
+"pa.wav". El archivo generado también tendrá el formato WAV.
+
+Para información sobre el uso del programa, ejecutarlo con el argumento "-h" o
+"--help" (sin las comillas).
+
+"""
+
+from optparse import OptionParser
 import os
 import sys
 
 import pygame
 
-
-FRAMERATE = 16000
-
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print >> sys.stderr, "Usage: %s <sounds dir> <input>" % sys.argv[0]
-        sys.exit(1)
+    #
+    # Manejo de opciones
+    #
+    usage = "Uso: %prog [opciones] <directorio de inventario> <secuencia> "\
+        "<archivo de salida>"
+    optparser = OptionParser(usage)
+    optparser.add_option("-p", "--play", action="store_true",
+        dest = "play_option", default = False,
+        help = "reproducir el archivo generado (requiere pygame)")
 
-    sounds_path = sys.argv[1]
-    seq = sys.argv[2]
+    (options, args) = optparser.parse_args()
+
+    if len(args) != 3:
+        optparser.error("número incorrecto de argumentos")
+
+    sounds_path = args[0]
+    seq = args[1]
+    outfile = args[2]
 
     seq = "-" + seq + "-"
 
