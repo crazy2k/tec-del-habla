@@ -3,12 +3,30 @@
     Ak, Al, Am, Ap, As,
     ka, la, ma, pa, sa,
     kA, lA, mA, pA, sA,
-    -a, -k, -l, -m, -p y -s.
+    -a, -A, -k, -l, -m, -p y -s.
+    a-, A-, k-, l-, m-, p- y s-.
 
     Decir las frases:
-    - takAma (ak, kA, Am)
+    - atakAma (-a, ak, kA, Am, a-)
     - tAkama (Ak, ka, am)
-    - talAma (al, lA, ...
+    - talAma (al, lA)
+    - tAlama (Al, la)
+    - tapAsa (ap, pA, As, sa)
+    - tApasa (pa, as)
+    - tamAsa (mA)
+    - tAmasa (ma)
+    - tasAr (sA)
+    - pApo (-p, Ap)
+    - lAla (-l)
+    - tamAl (l-)
+    - Aro (-A)
+    - arA (A-)
+    - kAra (-k)
+    - alAk (k-)
+    - tamAp (p-)
+    - mamA (-m)
+    - tusAm (m-)
+    - sAlsas (-s, s-)
 
 2. En un TextGrid, para cada grabacion, marcar los difonos
 3. Guardar los sonidos y los TextGrid
