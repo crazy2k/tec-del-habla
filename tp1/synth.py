@@ -29,8 +29,9 @@ Para información sobre el uso del programa, ejecutarlo con el argumento "-h" o
 from optparse import OptionParser
 import os
 import sys
+import time
+import wave
 
-import pygame
 
 if __name__ == "__main__":
     #
@@ -52,20 +53,45 @@ if __name__ == "__main__":
     seq = args[1]
     outfile = args[2]
 
-    seq = "-" + seq + "-"
+    #
+    # Procesamiento de la entrada
+    #
 
     diphs = [fst + sec for fst, sec in zip(seq, seq[1:])]
 
-    pygame.mixer.init(frequency=FRAMERATE)
-
+    # obtenemos los datos de cada archivo
+    params = None
+    data = []
     for diph in diphs:
         sound_fname = "%s.wav" % diph
         sound_path = os.path.join(sounds_path, sound_fname)
 
-        sound = pygame.mixer.Sound(sound_path)
+        w = wave.open(sound_path, "rb")
+
+        if not params:
+            params = w.getparams()
+
+        frames = w.readframes(w.getnframes())
+        data.append(frames)
+
+        w.close()
+
+    # creamos el archivo de salida
+    output = wave.open(outfile, "wb")
+    output.setparams(params)
+    for frames in data:
+        output.writeframes(frames)
+    output.close()
+
+    # reproducimos el archivo creado si se pide
+    if options.play_option:
+        import pygame
+
+        pygame.mixer.init(frequency=params[2])
+        sound = pygame.mixer.Sound(outfile)
         chan = sound.play()
         chan.set_volume(1)
 
         while pygame.mixer.get_busy():
-            pass
+            time.sleep(1)
 
