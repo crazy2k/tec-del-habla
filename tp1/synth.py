@@ -7,6 +7,9 @@ Sintetizador concatenativo de dífonos
 
 Este programa se encarga de sintetizar palabras de un lenguaje acotado.
 
+Funcionamiento
+--------------
+
 Valiéndose de un inventario de sonidos correspondientes a dífonos de un
 lenguaje, este programa genera, a partir de una secuencia de fonemas
 (expresada como una cadena de caracteres), un archivo de sonido con el habla
@@ -21,8 +24,28 @@ corresponderse con dífonos del lenguaje; por ejemplo, el archivo
 correspondiente al dífono "pa" (por los fonos "p" y "a") debe llamarse
 "pa.wav". El archivo generado también tendrá el formato WAV.
 
+Requerimientos
+--------------
+
+El único requerimiento para utilizar el sintetizador es contar con alguna
+versión de Python (fue probado con la versión 2.6.5, pero debería funcionar
+con cualquier versión actual de la rama 2.x).
+
+De manera opcional, el programa permite la reproducción del archivo
+generado. Para esto se debe contar con la biblioteca pygame instalada en
+el sistema. (La versión de prueba fue la 1.9.1)
+
+Uso
+---
+
 Para información sobre el uso del programa, ejecutarlo con el argumento "-h" o
 "--help" (sin las comillas).
+
+Licencia
+--------
+
+Copyright 2010 Pablo Antonio. Este programa es distribuido bajo los términos
+de la licencia GNU General Public License.
 
 """
 
