@@ -23,7 +23,7 @@ if __name__ == "__main__":
     pygame.mixer.init(frequency=FRAMERATE)
 
     for diph in diphs:
-        sound_fname = "TMP_%s.wav" % diph
+        sound_fname = "%s.wav" % diph
         sound_path = os.path.join(sounds_path, sound_fname)
 
         sound = pygame.mixer.Sound(sound_path)
