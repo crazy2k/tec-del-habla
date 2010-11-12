@@ -72,6 +72,8 @@ def get_attributes(word_data):
     # reemplazamos cada clave por su valor
     fields = [str(word_data[k]) for k in keys]
 
+    print keys
+
     return ",".join(fields)
 
 def process_file(fname):
@@ -148,8 +150,8 @@ if __name__ == "__main__":
 @ATTRIBUTE attr_6           STRING
 @ATTRIBUTE attr_7           STRING
 @ATTRIBUTE endswith         STRING
-@ATTRIBUTE firstword        {0,1}
-@ATTRIBUTE lastword         {0,1}
+@ATTRIBUTE firstword        STRING
+@ATTRIBUTE lastword         STRING
 @ATTRIBUTE length           NUMERIC
 @ATTRIBUTE nextisverb       STRING
 @ATTRIBUTE nextlength       NUMERIC
