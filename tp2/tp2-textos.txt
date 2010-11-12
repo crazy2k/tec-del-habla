@@ -1,0 +1,600 @@
+SECYT_mm_1_1 Álvarez:4 se:1 había:1 animado:3 a:1 contarle:1 un:2 chiste:4
+SECYT_mm_1_2 Alzó:1 la:1 voz:3 para:1 ahuyentar:1 a:1 los:2 perros:4
+SECYT_mm_1_3 Ayer:0 el:1 general:4 cumplió:1 ochenta:0 años:4
+SECYT_mm_1_4 Ayer:2 leí:0 la:0 novela:1 en:0 el:1 patio:4 hoy:1 lo:0 hice:0 a:1 pleno:0 sol:4
+SECYT_mm_1_5 A:0 decir:1 verdad:4 ellas:2 no:1 se:0 adaptan:4
+SECYT_mm_1_6 A:1 veces:2 los:1 ladrones:2 se:1 disfrazan:2 para:1 robar:4
+SECYT_mm_1_7 Además:3 confirmó:0 lo:0 que:0 predecían:2 las:1 matemáticas:4
+SECYT_mm_1_8 Bernasconi:4 prófugo:4
+SECYT_mm_1_9 Bruno:3 sentó:1 sus:1 reales:4 sobre:0 la:0 margen:0 oriental:2 del:2 río:4
+SECYT_mm_1_10 Cada:1 camión:2 carga:0 entre:1 quince:0 y:1 veinte:1 mil:2 pesos:4
+SECYT_mm_1_11 Cada:0 especialista:4 aprende:0 a:1 trabajar:0 en:0 equipo:4
+SECYT_mm_1_12 Calor:0 y:0 sol:4 contrastarán:2 con:1 tiempo:1 fresco:4
+SECYT_mm_1_13 Chinchudo:4 pegó:0 amplias:2 trompadas:0 al:0 aire:4
+SECYT_mm_1_14 Cientos:2 de:0 edificios:4 se:0 reducirán:0 a:0 escombros:4
+SECYT_mm_1_15 Contagia:3 energía:0 y:1 fervor:4
+SECYT_mm_1_16 Cuando:1 sopla:1 viento:1 norte:4 las:1 personas:4 cambian:1 su:1 comportamiento:4
+SECYT_mm_1_17 De:1 día:1 o:1 de:1 noche:4 desandar:1 Sarandí:4 es:1 un:1 placer:4
+SECYT_mm_1_18 Desbordan:3 las:1 restricciones:2 en:1 la:1 cueva:4
+SECYT_mm_1_19 Difundieron:1 declaraciones:1 incendiarias:4
+SECYT_mm_1_20 El:0 abigarrado:1 texto:3 complace:0 al:0 lector:4
+SECYT_mm_1_21 El:0 ambiente:3 ofrecía:1 gran:1 variedad:2 de:1 recursos:4
+SECYT_mm_1_22 El:0 atletismo:3 comparte:0 el:0 honor:4
+SECYT_mm_1_23 El:1 billete:2 de:1 cien:3 aparecerá:1 antes:3 de:1 fin:2 de:0 año:4
+SECYT_mm_1_24 El:1 blanco:4 requiere:0 un:1 paso:1 breve:3 por:1 madera:4
+SECYT_mm_1_25 El:1 cabernet:1 es:0 ideal:3 para:1 carnes:4
+SECYT_mm_1_26 El:1 cambio:2 de:1 las:1 costumbres:4 es:1 cada:1 vez:1 más:1 rápido:4
+SECYT_mm_1_27 El:1 cocinero:3 cortó:1 la:1 torta:3 con:1 cuchillo:4
+SECYT_mm_1_28 El:1 colegio:1 municipal:3 brinda:3 educación:1 primaria:4
+SECYT_mm_1_29 El:1 conjunto:2 de:1 las:0 escenas:4 se:1 reitera:1 en:0 el:1 galpón:4
+SECYT_mm_1_30 El:1 contexto:3 fue:1 disímil:4
+SECYT_mm_1_31 El:1 crimen:3 impulsó:0 una:1 manifestación:4
+SECYT_mm_1_32 El:1 dulce:2 de:1 leche:4 es:1 bien:0 argentino:4
+SECYT_mm_1_33 El:1 futbol:4 el:1 box:0 y:0 el:1 tenis:4 son:1 los:1 deportes:1 del:1 siglo:4
+SECYT_mm_1_34 El:1 girasol:4 también:1 padeció:1 la:1 sequía:4
+SECYT_mm_1_35 El:1 globo:3 subió:2 por:1 la:1 chimenea:4
+SECYT_mm_1_36 El:1 gremio:2 de:1 docentes:3 convocó:1 a:0 un:1 paro:1 nacional:4
+SECYT_mm_1_37 El:0 laurel:4 es:0 una:1 planta:0 aromática:4
+SECYT_mm_1_38 El:1 motor:3 levanta:3 muchas:1 revoluciones:2 de:1 golpe:4
+SECYT_mm_1_39 El:1 nieto:3 se:1 puso:1 la:1 boina:2 con:1 bronca:4
+SECYT_mm_1_40 El:1 partido:3 lucha:1 contra:0 el:0 estigma:2 del:1 fraude:4
+SECYT_mm_1_41 El:1 poeta:3 escribe:1 sus:1 versos:3 a:1 la:1 sombra:2 de:0 un:1 sauce:4
+SECYT_mm_1_42 El:1 precio:3 es:0 un:1 factor:0 importante:2 de:1 compra:4
+SECYT_mm_1_43 El:1 premier:0 ruso:4 advirtió:2 sobre:1 la:1 censura:4
+SECYT_mm_1_44 El:1 presidente:3 desea:0 inaugurarla:4 antes:1 de:0 irse:4
+SECYT_mm_1_45 El:1 presidente:3 la:1 llama:4 tormenta:1 regional:4
+SECYT_mm_1_46 El:1 promedio:1 a:0 imprimir:3 es:1 de:1 treinta:1 millones:2 por:1 mes:4
+SECYT_mm_1_47 El:1 proyecto:3 fue:1 abandonado:1 por:4 tantas:1 trabas:1 burocráticas:4
+SECYT_mm_1_48 El:1 reloj:1 de:1 la:1 canción:3 se:1 yergue:1 en:0 el:1 centro:1 del:1 mercado:4
+SECYT_mm_1_49 El:1 tractor:4 se:0 incrustó:1 en:0 el:1 puente:4
+SECYT_mm_1_50 El:1 traspaso:1 de:1 marchas:3 es:1 mucho:1 más:1 suave:1 y:0 efectivo:4
+SECYT_mm_1_51 El:1 viernes:3 golpeó:0 a:1 la:1 puerta:3 muchas:1 veces:4
+SECYT_mm_1_52 El:1 virus:4 temporalmente:3 se:1 detiene:4
+SECYT_mm_1_53 Empresarios:1 del:1 sector:3 reconocieron:3 que:1 se:0 agrega:1 solvente:4
+SECYT_mm_1_54 En:0 agosto:3 la:0 agencia:3 estimó:0 el:1 costo:2 en:1 doscientos:1 pesos:4
+SECYT_mm_1_55 En:1 día:1 feriado:4 cierran:3 las:0 escuelas:1 y:1 los:1 negocios:4
+SECYT_mm_1_56 En:0 esa:1 región:4 hubo:0 asentamientos:1 prehispánicos:4
+SECYT_mm_1_57 En:0 este:1 segmento:3 las:0 cifras:4 son:1 categóricas:4
+SECYT_mm_1_58 En:1 la:1 mañana:4 todo:0 el:1 mundo:3 anda:0 a:1 pie:4
+SECYT_mm_1_59 En:1 la:1 terminal:2 de:0 ómnibus:4 se:1 venden:1 diarios:2 y:1 revistas:4
+SECYT_mm_1_60 En:1 su:0 hábitat:3 gruñir:4 es:1 común:4
+SECYT_mm_1_61 Entre:1 los:0 ejemplos:3 citamos:1 el:1 caso:0 español:4
+SECYT_mm_1_62 Es:1 joven:4 y:1 sin:0 embargo:4 no:0 es:1 felíz:4
+SECYT_mm_1_63 Es:0 una:1 guía:2 para:1 saber:4 qué:0 hacer:4 y:1 porqué:0 hacerlo:4
+SECYT_mm_1_64 Esas:1 variaciones:3 no:1 se:1 detectan:2 fácilmente:4
+SECYT_mm_1_65 Esos:1 países:3 deben:1 reembolsar:1 la:1 deuda:4
+SECYT_mm_1_66 Estos:1 camiones:3 intentaron:1 pasar:2 por:1 Clorinda:4
+SECYT_mm_1_67 Fue:1 despedido:3 por:0 un:1 recorte:1 presupuestario:4
+SECYT_mm_1_68 Fuimos:3 como:1 dueño:1 y:1 cliente:3 al:1 club:3 para:1 cobrar:4
+SECYT_mm_1_69 Fumar:4 es:1 dañino:3 para:1 la:1 salud:4
+SECYT_mm_1_70 Graduarse:2 de:0 abogado:4 para:1 defender:1 la:1 ley:4
+SECYT_mm_1_71 Hablen:3 del:1 complot:4
+SECYT_mm_1_72 Hay:1 que:0 abrir:3 la:1 biblia:3 para:0 apreciarla:4
+SECYT_mm_1_73 Horarios:1 flexibles:3 para:0 estudiantes:4
+SECYT_mm_1_74 Huelga:2 para:1 cambiar:4 y:1 luego:0 aguantar:4
+SECYT_mm_1_75 Informes:1 e:0 inscripción:4 en:1 la:1 misma:0 oficina:4
+SECYT_mm_1_76 Interrumpió:1 la:1 cena:4
+SECYT_mm_1_77 Judas:4 vendió:1 a:1 Jesucristo:3 por:1 treinta:1 monedas:4
+SECYT_mm_1_78 La:1 caída:2 de:0 agua:3 será:1 cercana:3 a:1 su:1 marca:1 normal:4
+SECYT_mm_1_79 La:1 catástrofe:3 devastó:1 la:1 ciudad:4
+SECYT_mm_1_80 La:1 ciudad:1 vieja:3 luce:1 una:1 metamorfosis:4
+SECYT_mm_1_81 La:0 empresa:2 de:1 Milán:4 es:0 accionista:2 del:1 consorcio:4
+SECYT_mm_1_82 La:0 escasez:2 de:1 lluvia:3 provoca:1 bajante:2 del:1 río:4
+SECYT_mm_1_83 La:1 falsificación:1 de:1 la:1 firma:4 fue:0 atribuida:0 al:0 empleado:4
+SECYT_mm_1_84 La:1 farmacopea:1 nueva:3 apunta:1 a:1 la:1 prevención:4
+SECYT_mm_1_85 La:1 feria:3 se:0 extiende:3 en:1 la:1 calle:1 Bartolomé:1 Mitre:4
+SECYT_mm_1_86 La:1 firma:3 no:1 corresponde:1 al:1 demandado:4
+SECYT_mm_1_87 La:1 gran:1 ciudad:3 del:0 imperio:4 está:1 reconstruida:4
+SECYT_mm_1_88 La:0 hiperinflación:3 fue:0 el:1 tema:1 de:1 la:1 década:4
+SECYT_mm_1_89 La:0 información:3 puede:1 leerse:2 en:0 el:0 libro:1 del:1 profesor:4
+SECYT_mm_1_90 La:0 izquierda:0 uruguaya:3 gana:2 en:1 las:0 encuestas:4
+SECYT_mm_1_91 La:1 justicia:1 federal:3 detuvo:1 a:1 cinco:1 camiones:4
+SECYT_mm_1_92 La:1 medida:3 afecta:1 a:1 todos:1 los:0 agricultores:4
+SECYT_mm_1_93 La:1 noche:3 fue:1 un:0 ir:0 y:1 venir:2 de:1 gente:4
+SECYT_mm_1_94 La:1 parrilla:3 aloja:0 una:1 nueva:0 insignia:2 del:0 león:4
+SECYT_mm_1_95 La:1 plaza:2 que:1 lo:0 evoca:4 asemeja:1 un:1 transplante:2 de:1 París:4
+SECYT_mm_1_96 La:1 prensa:3 se:0 ocupa:3 del:1 conflicto:0 árabe:4
+SECYT_mm_1_97 La:1 reflexión:3 sobre:1 la:1 laicidad:4 es:0 interesante:4
+SECYT_mm_1_98 La:1 vida:3 es:1 una:0 enfermedad:2 del:0 espíritu:4
+SECYT_mm_1_99 La:1 voluntad:2 del:1 juez:4 fue:0 impuesta:2 en:1 tribunales:4
+SECYT_mm_1_100 Las:0 alhajas:1 aportan:1 brillo:3 a:0 esta:1 subasta:4
+SECYT_mm_1_101 Las:1 clases:2 de:0 este:1 cuatrimestre:3 empiezan:0 en:1 verano:4
+SECYT_mm_1_102 Las:0 etapas:2 del:1 desarrollo:0 infantil:4 difieren:3 según:0 el:1 niño:4
+SECYT_mm_1_103 Las:1 flores:3 de:1 brócoli:4 hierven:0 enseguida:4
+SECYT_mm_1_104 Las:1 guerrilleras:3 filmaron:1 un:1 video:4
+SECYT_mm_1_105 Las:0 investigadoras:4 analizan:3 los:1 modos:1 de:0 subsistencia:4
+SECYT_mm_1_106 Las:1 madres:3 hablaron:3 tras:1 la:0 intervención:2 de:1 Pablo:4
+SECYT_mm_1_107 Las:1 perspectivas:3 sobre:0 el:1 país:4 mejoran:4
+SECYT_mm_1_108 Lentamente:3 cualquier:1 tristeza:3 se:0 apacigua:4
+SECYT_mm_1_109 Limpiaron:3 ventanas:3 y:1 puertas:4
+SECYT_mm_1_110 Llueve:3 sobre:1 las:1 piedras:3 de:1 la:1 pared:4
+SECYT_mm_1_111 Los:1 vinos:0 uruguayos:4 han:1 mejorado:3 en:0 el:0 último:1 lustro:4
+SECYT_mm_1_112 Los:0 actos:1 de:0 habla:3 son:3 múltiples:4
+SECYT_mm_1_113 Los:0 alumnos:4 arrojaban:0 huevos:3 a:1 diestra:1 y:1 siniestra:4
+SECYT_mm_1_114 Los:0 artistas:3 señalamos:0 a:0 aquél:3 como:0 el:1 mejor:4
+SECYT_mm_1_115 Los:1 cambios:3 no:1 se:1 reflejaron:1 mayormente:4
+SECYT_mm_1_116 Los:1 camiones:1 cargados:4 rompen:3 las:1 rutas:1 nacionales:4
+SECYT_mm_1_117 Los:1 chicos:3 acompañan:1 a:1 los:1 papás:4 al:1 supermercado:4
+SECYT_mm_1_118 Los:1 contratados:4 oscilan:3 entre:0 adultos:1 jóvenes:4 y:1 mayores:4
+SECYT_mm_1_119 Los:1 datos:2 del:0 instituto:3 reflejan:1 un:0 aumento:3 de:1 la:1 población:4
+SECYT_mm_1_120 Los:0 elegantes:1 restaurantes:4 permiten:3 una:1 cena:2 de:1 nivel:4
+SECYT_mm_1_121 Los:1 ferroviarios:3 tienen:1 la:1 concesión:3 del:1 mayor:1 tren:2 de:1 cargas:4
+SECYT_mm_1_122 Los:1 gobernadores:4 no:0 aceptan:3 que:1 les:1 limiten:1 los:1 fondos:4
+SECYT_mm_1_123 Los:1 próceres:3 pretenden:1 otorgar:4 fiabilidad:4 al:1 vil:1 metal:4
+SECYT_mm_1_124 Los:1 rebeldes:3 entregaron:3 cartas:2 de:0 afecto:4
+SECYT_mm_1_125 Los:1 recursos:4 permiten:3 identificar:1 las:0 especies:4
+SECYT_mm_1_126 Los:1 trenes:3 que:1 salieron:1 tarde:4 no:1 llegan:1 a:0 horario:4
+SECYT_mm_1_127 Luces:3 y:1 sombras:3 en:0 el:1 perfil:3 de:0 un:0 hombre:1 político:4
+SECYT_mm_1_128 Luis:1 Miguel:4 ídolo:3 gritaban:1 las:1 fans:4
+SECYT_mm_1_129 Maximiliano:3 está:0 en:3 reposo:0 absoluto:4
+SECYT_mm_1_130 Muebles:2 y:1 máquinas:3 son:1 parte:2 de:1 la:0 herencia:1 familiar:4
+SECYT_mm_1_131 Murió:3 el:1 periodista:3 creador:2 del:1 diario:1 La:1 Razón:4
+SECYT_mm_1_132 Ningún:3 canto:3 de:1 pájaro:3 alegra:0 el:1 barrio:4
+SECYT_mm_1_133 No:0 es:3 fácil:3 arrojarse:1 al:0 agua:2 desde:0 un:1 trampolín:4
+SECYT_mm_1_134 No:0 escupir:3 en:0 el:1 suelo:4
+SECYT_mm_1_135 No:1 pueden:1 vincularse:3 las:1 mediciones:4
+SECYT_mm_1_136 El:1 gremio:2 de:1 docentes:3 convocó:1 a:0 un:1 paro:1 nacional:4
+SECYT_mm_1_137 Nunca:3 intenté:1 influir:2 en:1 él:4
+SECYT_mm_1_138 Padecieron:3 dictaduras:4 y:1 dictablandas:4
+SECYT_mm_1_139 Para:1 desayunar:4 pidió:1 café:1 con:1 leche:3 y:1 medialunas:4
+SECYT_mm_1_140 Perdió:0 su:0 carácter:0 exclusivo:3 Pinamar:4
+SECYT_mm_1_141 Pintó:3 una:1 florcita:3 de:1 color:0 añil:4
+SECYT_mm_1_142 Polícrates:4 estafó:1 a:1 los:0 espartanos:3 con:1 monedas:1 falsas:4
+SECYT_mm_1_143 Por:1 el:1 crimen:4 se:1 suspendieron:3 las:1 reuniones:4
+SECYT_mm_1_144 Por:1 la:1 noche:3 en:0 el:1 sur:4 aparecerán:3 nubes:4 y:1 probables:1 lluvias:4
+SECYT_mm_1_145 Que:1 tengas:4 mucha:1 suerte:4
+SECYT_mm_1_146 Quilmes:4 desarrolló:2 una:1 botella:2 de:1 cuello:1 largo:4
+SECYT_mm_1_147 Rechazan:3 los:1 reclamos:0 agropecuarios:4
+SECYT_mm_1_148 Recién:3 nos:1 dieron:2 la:1 noticia:4
+SECYT_mm_1_149 Salió:1 para:1 cerrar:3 la:1 puerta:1 vidriera:4
+SECYT_mm_1_150 Se:1 confirma:3 la:0 eficacia:2 de:1 la:0 acupuntura:4
+SECYT_mm_1_151 Se:0 está:1 construyendo:3 la:1 mezquita:3 más:0 grande:2 de:0 América:4
+SECYT_mm_1_152 Se:1 mantienen:1 alerta:3 frente:1 a:1 la:1 crisis:4
+SECYT_mm_1_153 Se:1 palpitaba:1 allí:3 cierto:0 ánimo:3 de:1 triunfo:4
+SECYT_mm_1_154 Son:1 ciudadanos:1 desalentados:3 que:1 no:1 pueden:3 afrontar:1 los:1 gastos:4
+SECYT_mm_1_155 Su:1 titular:3 calculó:2 que:1 la:1 suma:3 podría:1 ascender:0 al:1 doble:4
+SECYT_mm_1_156 Subieron:3 las:1 tarifas:2 de:1 los:0 servicios:1 públicos:4
+SECYT_mm_1_157 Tiene:1 muchos:0 entusiastas:3 la:1 náutica:2 en:1 Moreno:4
+SECYT_mm_1_158 Triple:1 garantía:3 en:1 los:1 depósitos:1 bancarios:4
+SECYT_mm_1_159 Turquía:3 es:0 un:1 pueblo:3 propenso:1 a:1 sismos:4
+SECYT_mm_1_160 Un:2 changarín:3 se:1 presentó:0 en:1 la:1 sede:2 de:1 la:1 lotería:4
+SECYT_mm_1_161 Un:1 cuadro:1 distinto:3 se:0 vivía:1 en:1 Boca:4
+SECYT_mm_1_162 Un:1 perfume:2 de:1 claveles:1 y:0 magnolias:4 invadió:1 el:0 lugar:4
+SECYT_mm_1_163 Un:2 recreo:4 ofrece:1 deportes:0 y:1 restaurante:0 en:1 Chañá:4
+SECYT_mm_1_164 Un:1 robot:3 localizó:0 ayer:3 las:1 cajas:1 negras:4
+SECYT_mm_1_165 Un:1 sutil:1 monumento:3 arribó:1 para:1 quedarse:4
+SECYT_mm_1_166 Una:0 asamblea:3 resolvió:1 la:1 clausura:4
+SECYT_mm_1_167 Una:0 atmósfera:1 libertaria:4 planea:1 sobre:1 Montevideo:4
+SECYT_mm_1_168 Una:1 rueda:3 simple:3 y:1 genial:4
+SECYT_mm_1_169 Una:1 conexión:1 clandestina:2 de:1 gas:4 produjo:1 una:0 explosión:4
+SECYT_mm_1_170 Una:1 gargantilla:2 de:0 oro:3 llega:0 a:1 las:1 tarimas:2 de:1 Roldán:4
+SECYT_mm_1_171 Una:1 pintura:2 de:1 Seguí:4 dará:1 testimonio:4
+SECYT_mm_1_172 Una:1 profesora:3 quiso:1 salir:2 del:0 establecimiento:4
+SECYT_mm_1_173 Una:1 vez:1 desmontado:3 el:1 terreno:3 es:1 poco:1 fértil:4
+SECYT_mm_1_174 Usted:4 colóquela:1 en:0 una:1 fuente:4
+SECYT_mm_1_175 Yo:1 tamicé:2 la:0 harina:2 con:1 sal:4
+SECYT_mm_1_176 Discriminaron:3 extranjeros:2 del:1 Perú:4
+SECYT_mm_1_177 Existe:1 desconfianza:3 ante:0 el:1 presente:1 incumplimiento:2 del:0 organismo:4
+SECYT_mm_1_178 Descubren:3 fármacos:3 adulterados:2 en:1 Junín:4
+SECYT_mm_1_179 Anuncian:3 una:1 financiación:3 del:1 catorce:2 por:1 ciento:2 de:0 interés:4
+SECYT_mm_1_180 Auspiciaron:1 reunión:3 por:1 la:1 política:0 antibloqueo:4
+SECYT_mm_1_181 Un:1 delincuente:3 mató:1 de:0 un:1 tiro:2 fulminante:1 a:0 un:1 comerciante:4
+SECYT_mm_1_182 La:1 camioneta:4 cruzó:1 la:1 sinuosa:1 vía:1 del:1 ferrocarril:4
+SECYT_mm_1_183 Una:0 insurgencia:4 prometió:1 luchar:2 por:0 el:0 éxito:2 de:1 la:1 causa:4
+SECYT_mm_1_184 Hubo:1 ruido:4 al:1 caer:3 un:0 equilibrista:3 en:0 un:1 circo:2 de:1 Guillón:4
+SECYT_mm_1_185 El:0 automóvil:1 es:1 ruidoso:4 y:0 consume:2 demasiado:1 combustible:4
+SECYT_mm_1_186 Ernesto:1 Funes:3 tocará:0 el:1 saxo:3 en:0 el:1 bar:4 El:1 Tropezón:4
+SECYT_mm_1_187 La:1 gran:1 ciudad:3 del:0 imperio:4 está:1 reconstruida:4
+SECYT_mm_1_188 Los:0 científicos:3 intentarán:0 estudiar:3 el:0 alcance:2 del:1 temblor:4
+SECYT_mm_1_189 Rastrean:3 la:0 zona:2 del:1 terremoto:4 para:0 ubicar:3 los:1 cuerpos:2 de:1 las:1 victimas:4
+SECYT_mm_1_190 La:0 concurrencia:4 disfruta:2 de:0 una:1 coreografía:3 brillante:4
+SECYT_mm_1_191 El:1 manual:2 de:1 guerra:3 prescribe:4 orden:3 subordinación:4 fuerza:4 y:1 lealtad:4
+SECYT_mm_1_192 Los:1 choferes:3 aprueban:0 un:1 plan:1 de:1 lucha:3 en:1 defensa:2 del:1 salario:1 mínimo:4
+SECYT_mm_1_193 La:0 epidemia:3 se:0 expandió:2 en:1 forma:1 veloz:4
+SECYT_mm_1_194 Las:1 golondrinas:3 vuelan:1 a:1 través:2 de:1 la:1 luz:2 del:0 horizonte:4
+SECYT_mm_1_195 El:1 pan:1 es:0 sabroso:4 pero:0 engorda:4
+SECYT_mm_1_196 Los:1 genios:4 preveen:1 descubrirlos:4
+SECYT_mm_1_197 El:1 diurético:3 le:1 causó:4 pérdida:2 de:1 peso:4
+SECYT_mm_1_198 Con:1 la:1 virtud:4 no:1 basta:4
+SECYT_mm_1_199 Vemos:0 aquí:1 una:1 vista:3 de:1 la:1 frontera:3 con:0 el:1 territorio:1 Galés:4
+SECYT_mm_1_200 El:0 indio:3 se:0 inclino:3 para:1 romper:2 la:1 red:0 de:1 pesca:4
+SECYT_mm_1_201 No:1 lograron:1 disminuir:3 la:1 cifra:2 de:1 mortalidad:0 infantil:4
+SECYT_mm_1_202 Encontré:0 una:1 prueba:0 eficaz:4 para:1 la:1 detección:1 de:1 la:1 señal:4
+SECYT_mm_1_203 Sobran:1 las:1 lapiceras:4 y:1 las:1 prestan:4
+SECYT_mm_1_204 Recuerdo:0 a:1 mi:0 abuelo:1 hablar:3 sin:1 pausa:4
+SECYT_mm_1_205 Actualmente:4 el:1 varón:3 no:1 siempre:1 establece:0 el:1 primer:1 contacto:4
+SECYT_mm_1_206 El:1 sainete:3 trata:3 sobre:0 el:0 amor:1 desairado:4
+SECYT_mm_1_207 El:1 sexto:0 aluvión:2 del:0 año:3 produjo:1 una:1 muerte:4
+SECYT_mm_1_208 Permitió:1 expurgar:3 las:1 dudas:4 del:0 universo:1 corpuscular:4
+SECYT_mm_1_209 Observó:3 la:1 redacción:3 con:0 el:1 grafoscopio:4
+SECYT_mm_1_210 El:1 riachuelo:3 surge:3 del:1 río:1 troncal:4
+SECYT_mm_1_211 Preguntó:3 adonde:3 aguarda:1 el:1 ñeque:4
+SECYT_mm_1_212 Las:0 empanadas:2 de:0 hojaldre:4 son:0 aceitosas:4
+SECYT_mm_1_213 Un:0 hombre:1 viril:4 y:0 una:1 mujer:3 despampanante:4
+SECYT_mm_1_214 El:0 oviscapto:3 es:0 el:0 abdomen:3 de:1 muchos:0 insectos:4
+SECYT_mm_1_215 Hizo:1 un:1 corpus:3 de:0 oraciones:1 bimembres:4
+SECYT_mm_1_216 El:0 estroncio:3 y:0 el:0 hidragiro:4 son:1 términos:1 químicos:4
+SECYT_mm_1_217 Es:0 sonámbula:4 no:0 está:1 embriagada:1 o:0 ebria:4
+SECYT_mm_1_218 Los:1 caminos:3 se:0 entrecruzan:3 y:1 bifurcan:4
+SECYT_mm_1_219 La:1 chiltota:1 y:0 el:0 aguaitacaimán:3 son:0 aves:3 americanas:4
+SECYT_mm_1_220 Quedó:1 boquiabierto:3 ante:1 la:0 excelsitud:1 del:1 paisaje:1 selvático:4
+SECYT_mm_1_221 Tenía:2 una:1 blusa:2 de:1 yersey:2 de:1 color:1 lilac:4 y:1 jalde:4
+SECYT_mm_1_222 Coloque:2 el:0 atún:1 crudo:2 en:0 el:1 molde:3 con:0 aceite:1 caliente:4
+SECYT_mm_1_223 Al:1 taladrar:2 la:1 moldura:3 se:0 ensuciaron:2 los:1 mosaicos:1 con:0 aserrín:4
+SECYT_mm_1_224 No:0 obsta:3 europeizar:1 aquél:1 rincón:2 de:1 la:1 cultura:4
+SECYT_mm_1_225 Es:0 símbolo:3 de:0 autoctonía:3 y:1 de:1 raigambre:1 nacional:4
+SECYT_mm_1_226 Estaba:1 cansado:3 de:1 piruetear:2 en:0 el:1 salón:1 bailable:4
+SECYT_mm_1_227 El:1 donjuán:3 bailó:1 hasta:0 atolondrarse:4
+SECYT_mm_1_228 Averigüé:4 cuál:0 era:3 la:1 pista:2 del:1 taimado:4
+SECYT_mm_1_229 Qué:1 dios:2 lo:0 acompañe:4
+SECYT_mm_1_230 Usó:2 la:1 cortaplumas:3 para:1 destroncar:0 el:1 bonsai:4
+SECYT_mm_1_231 Utilizaban:1 una:1 substancia:4 púrpura:3 como:0 afrodisíaco:4
+SECYT_mm_1_232 Sus:1 frutos:1 preferidos:4 son:1 las:1 guindas:4 y:1 las:1 drupas:4
+SECYT_mm_1_233 El:1 tuerto:3 comió:0 alfóstigas:3 por:1 treintaidoseava:3 vez:4
+SECYT_mm_1_234 Plasmó:3 la:1 figura:3 en:0 el:1 yunque:4
+SECYT_mm_1_235 Comenzó:1 a:1 cellisquear:3 una:0 especie:2 de:0 aguachirle:4
+SECYT_mm_1_236 El:0 ahuizote:4 es:1 de:1 mal:0 agüero:4
+SECYT_mm_1_237 Apostaba:1 a:1 la:1 brisca:3 y:0 otros:1 juegos:2 de:1 naipes:4
+SECYT_mm_1_238 El:0 ahorrista:3 no:1 quería:2 fiarle:4
+SECYT_mm_1_239 El:0 usufructuario:3 de:1 la:0 hacienda:3 quiso:0 adquirirlo:4
+SECYT_mm_1_240 El:1 microscopio:3 tenía:1 una:1 lámpara:3 de:1 bajo:1 poder:1 voltaico:4
+SECYT_mm_1_241 Expurgan:3 la:1 brujería:2 de:0 aquel:1 sitio:4
+SECYT_mm_1_242 Juana:1 vestía:3 con:1 briales:1 y:1 lienzos:4
+SECYT_mm_1_243 Compró:2 chambres:3 adornados:2 con:1 briscados:4
+SECYT_mm_1_244 Dijo:3 alcaloide:4 o:1 solenoide:4
+SECYT_mm_1_245 Viajaron:3 en:1 la:1 rusticidad:3 de:0 ese:1 furgón:1 desmembrado:4
+SECYT_mm_1_246 Subí:3 un:1 peldaño:1 más:4 y:0 alcanzá:3 la:1 lamparita:4
+SECYT_mm_1_247 Dichas:1 toxinas:4 causan:3 lientería:4
+SECYT_mm_1_248 Caramba:4 Qué:1 de:1 berrinches:3 tienen:1 los:0 Juanes:4
+SECYT_mm_1_249 Se:0 encrespa:3 hasta:1 la:1 cúspide:4
+SECYT_mm_1_250 El:1 caraipo:3 y:1 los:1 coipos:3 son:0 autóctonos:4
+SECYT_mm_1_251 El:0 hombre:2 de:1 pelo:1 crespo:3 se:1 comportaba:3 caballerilmente:4
+SECYT_mm_1_252 Había:3 guaycurús:1 y:1 loicas:4
+SECYT_mm_1_253 Los:1 huelguistas:3 se:1 comportaron:3 varonilmente:4
+SECYT_mm_1_254 Comenzaron:1 a:1 pugnar:3 por:0 el:0 usufructo:2 de:1 su:1 trabajo:4
+SECYT_mm_1_255 El:1 argüidor:1 supo:3 amuermar:1 a:1 la:0 audiencia:4
+SECYT_mm_1_256 Su:1 respiración:1 era:1 disnéica:4 casi:0 asfíctica:4
+SECYT_mm_1_257 Tuvieron:2 que:1 fustigar:3 su:1 machismo:0 arraigado:4
+SECYT_mm_1_258 Fingirse:1 neutral:1 y:1 quisquilloso:4 ante:0 un:1 problema:2 tan:1 ríspido:4
+SECYT_mm_1_259 Pasteurizar:2 la:1 leche:4 elimina:1 bacterias:4
+SECYT_mm_1_260 Es:1 una:1 muestra:2 de:1 folclore:1 mexicano:4
+SECYT_mm_1_261 Admira:3 el:1 ritmo:3 de:1 la:1 poesía:2 de:1 Bécquer:4
+SECYT_mm_1_262 Traza:3 una:1 curva:0 elíptica:3 en:1 torno:1 a:1 Neptuno:4
+SECYT_mm_1_263 El:0 acto:1 delictivo:3 se:1 produjo:3 en:1 Pompeya:4
+SECYT_mm_1_264 El:0 influente:1 terapeuta:3 Freire:3 ejerció:1 la:0 hipnosis:4
+SECYT_mm_1_265 Comenzó:1 a:0 angustiarme:3 su:1 claustrofobia:4
+SECYT_mm_1_266 Arrinconó:1 a:1 la:1 criatura:1 malcriada:4
+SECYT_mm_1_267 No:2 se:0 acerque:3 al:1 claustro:1 solemne:4
+SECYT_mm_1_268 El:1 juglar:3 ejecutó:1 la:1 flauta:1 y:0 el:1 flautín:4
+SECYT_mm_1_269 Es:0 huérfano:4 desde:0 aquél:1 traumático:1 suicidio:4
+SECYT_mm_1_270 La:0 hediondez:4 se:1 debía:1 al:0 estiércol:4
+SECYT_mm_1_271 La:1 regurgitación:3 se:1 debió:1 a:0 un:0 ataque:0 epiléptico:4
+SECYT_mm_1_272 La:0 orden:1 jesuita:3 fue:1 dominante:3 después:1 del:1 feudalismo:4
+SECYT_mm_1_273 El:1 suizo:3 estudió:1 la:1 fauna:3 de:1 Gibraltar:4
+SECYT_mm_1_274 Estuvo:2 en:0 aprietos:3 con:0 el:1 gauchaje:3 buscapleitos:4
+SECYT_mm_1_275 Su:1 dogma:3 fue:1 la:1 patriedad:1 criolla:4
+SECYT_mm_1_276 El:1 teutón:3 despierta:3 con:1 su:1 vivac:4
+SECYT_mm_1_277 El:0 egiptólogo:3 se:1 mostró:1 inepto:1 en:1 la:0 autopsia:4
+SECYT_mm_1_278 Ordenó:1 repatriar:2 sus:1 restos:3 con:1 toda:3 pompa:4
+SECYT_mm_1_279 La:1 viuda:3 estaba:1 carifruncida:3 en:1 la:1 quermés:4
+SECYT_mm_1_280 Era:3 una:1 jaula:3 de:1 mimbres:0 abalaustrados:4
+SECYT_mm_1_281 Adopta:3 una:1 postura:1 cáustica:3 ante:1 la:1 chusma:4
+SECYT_mm_1_282 No:1 sabían:3 si:0 era:1 plumbagina:4 o:0 un:1 dolor:1 intrauterino:4
+SECYT_mm_1_283 Melchor:3 le:0 obsequió:3 un:1 vetusto:1 pimpollo:4
+SECYT_mm_1_284 El:1 monstruo:3 sostuvo:0 al:1 pigmeo:4 prietamente:4
+SECYT_mm_1_285 Creen:1 imposible:0 indemnizar:4 la:1 monstruosidad:2 del:0 holocausto:4
+SECYT_mm_1_286 El:1 gorrión:3 de:0 ojos:1 vidriosos:1 y:1 tiernos:4
+SECYT_mm_1_287 La:0 inolvidable:3 belleza:1 pictórica:2 de:1 México:4
+SECYT_mm_1_288 Ordenó:3 sitiar:3 el:1 terraplén:2 y:1 la:1 rampa:4
+SECYT_mm_1_289 Al:1 grito:2 de:0 auxilio:3 corrió:0 a:1 socorrerlo:4
+SECYT_mm_1_290 La:0 oftalmóloga:4 le:1 recetó:0 anteojos:2 de:1 carey:4
+SECYT_mm_1_291 Existen:3 incógnitas:3 acerca:2 del:1 tiroidismo:4
+SECYT_mm_1_292 La:1 pieza:1 griega:3 representa:3 el:1 rapto:2 de:1 las:1 Nereidas:4
+SECYT_mm_1_293 La:1 trienal:2 de:0 arte:4 fue:0 antiartística:4 y:0 antiestética:4
+SECYT_mm_1_294 Barrunta:1 una:1 sinopsis:3 sobre:0 aritmética:4
+SECYT_mm_1_295 La:1 criada:3 lloró:4 el:0 enclaustramiento:2 del:0 ladronzuelo:4
+SECYT_mm_1_296 El:0 ladrón:3 estuvo:0 a:1 punto:2 de:0 escabullirse:4
+SECYT_mm_1_297 Hay:1 que:1 zambullir:3 el:0 limón:4 en:0 el:1 daiquiri:4
+SECYT_mm_1_298 No:0 hubo:4 quórum:3 para:0 arreglarlo:4
+SECYT_mm_1_299 Pueden:3 contagiar:1 sarampión:4
+SECYT_mm_1_300 Le:1 recetaron:3 baños:1 de:0 aguascalientes:4 y:0 una:1 dieta:1 proteica:4
+SECYT_mm_1_301 La:1 continuidad:3 de:1 sus:0 aciertos:3 inquietó:1 al:1 crupier:4
+SECYT_mm_1_302 La:0 obstrucción:3 agrieta:1 la:1 techumbre:4
+SECYT_mm_1_303 Como:1 buen:0 antialcohólico:4 rechazó:0 el:1 güisqui:4
+SECYT_mm_1_304 Quiso:3 prestigiarse:1 en:0 el:1 pleito:4
+SECYT_mm_1_305 Su:1 mano:3 podía:1 ser:4 prieta:4 o:1 blonda:4
+SECYT_mm_1_306 El:1 fideicomiso:4 es:1 la:1 decimosexta:1 parte:4
+SECYT_mm_1_307 El:1 remolque:4 comenzó:1 a:1 descarriarse:4
+SECYT_mm_1_308 Está:1 recogiendo:3 la:0 hidromiel:4
+SECYT_mm_1_309 Miró:1 al:0 antropoide:3 con:1 sus:1 prismáticos:4
+SECYT_mm_1_310 Se:1 mostró:3 indemne:4 e:0 inactivo:4
+SECYT_mm_1_311 El:1 gaucho:3 resultó:1 damnificado:4
+SECYT_mm_1_312 La:1 rebelión:3 pareció:1 ineluctable:4
+SECYT_mm_1_313 Usaba:3 el:1 chumbo:3 para:1 delinquir:4
+SECYT_mm_1_314 Humecta:1 y:0 aísla:3 al:1 mismo:1 tiempo:4
+SECYT_mm_1_315 Demostró:3 su:0 aptitud:3 para:0 el:1 ciclismo:4
+SECYT_mm_1_316 Conoció:3 la:1 malignidad:2 de:1 la:1 dueñesca:4
+SECYT_mm_1_317 La:1 poisa:3 es:1 la:1 cáscara:2 de:1 los:1 granos:4
+SECYT_mm_1_318 El:0 algoritmo:3 se:1 representa:3 con:1 la:1 letra:4 ípsilon:4
+SECYT_mm_1_319 Es:0 una:1 substancia:3 pústina:3 para:0 humectar:1 la:1 piel:4
+SECYT_mm_1_320 Me:1 molesta:3 el:1 rimbombo:2 del:1 timbre:4
+SECYT_mm_1_321 Riveiro:3 deglute:0 el:1 faisán:3 con:1 piesco:4
+SECYT_mm_1_322 Era:0 un:0 ángel:2 celestial:3 de:1 corporeidad:4 oblonga:4
+SECYT_mm_1_323 Veneraban:1 una:1 deidad:3 mixta:1 y:0 heroica:4
+SECYT_mm_1_324 La:1 música:2 de:1 los:1 gaiteros:3 arraiga:0 en:1 su:1 sangre:4
+SECYT_mm_1_325 Se:1 celebró:3 el:0 agnusdéi:4 con:1 la:1 solemnidad:1 de:1 la:1 circunstancia:4
+SECYT_mm_1_326 Comenzó:0 a:0 endilgarle:3 invectivas:4 e:0 injurias:4
+SECYT_mm_1_327 Tuvo:3 que:1 peinarse:2 y:0 afeitarse:4
+SECYT_mm_1_328 El:0 afictionado:4 era:1 inexperto:4
+SECYT_mm_1_329 Era:1 un:0 hombre:3 de:1 pensamiento:1 dogmático:3 e:0 invariante:4
+SECYT_mm_1_330 Propusieron:3 un:1 plan:2 de:1 reinversión:3 en:1 la:0 industria:1 metalúrgica:4
+SECYT_mm_1_331 El:1 murciélago:3 es:0 un:1 quiróptero:4
+SECYT_mm_1_332 El:0 edil:3 propuso:3 un:0 nuevo:1 canon:4
+SECYT_mm_1_333 La:0 araucana:3 teje:1 un:1 felpudo:4
+SECYT_mm_1_334 Comenzó:0 a:1 cundir:4 esa:1 actitud:1 negligente:4
+SECYT_mm_1_335 Algunos:1 dicen:3 gamba:4 en:1 vez:1 de:1 pierna:4
+SECYT_mm_1_336 Examinan:3 la:1 fluencia:3 de:1 los:1 leucocitos:4
+SECYT_mm_1_337 Se:0 hallaba:3 a:1 dos:1 leguas:3 del:0 umbral:2 del:1 feudo:4
+SECYT_mm_1_338 Está:0 adscripto:3 a:1 la:1 cátedra:1 de:1 lingüística:4
+SECYT_mm_1_339 Hizo:3 xilografías:3 en:0 Egipto:4
+SECYT_mm_1_340 Los:0 suplentes:3 están:1 resfriados:4
+SECYT_mm_1_341 La:1 felpa:3 está:0 apelmazada:4
+SECYT_mm_1_342 Necesitaba:1 un:0 enfriador:4 para:0 el:0 iglú:4
+SECYT_mm_1_343 El:1 dintel:4 apoya:3 en:1 los:1 capialgos:4
+SECYT_mm_1_344 Debía:1 mezclarlo:3 con:1 glicerina:4
+SECYT_mm_1_345 Fue:1 peligrosa:3 la:1 bifurcación:1 de:1 las:0 esquirlas:4
+SECYT_mm_1_346 Son:1 lentes:3 bicapsulares:3 y:1 convexos:4
+SECYT_mm_1_347 Compró:3 un:1 tonel:2 de:1 membrillo:4
+SECYT_mm_1_348 Tuvo:3 que:1 confiarle:3 la:1 postdata:4
+SECYT_mm_1_349 Averigüe:0 el:1 significado:3 de:1 conmixtión:4
+SECYT_mm_1_350 No:1 puedo:3 desplumar:1 el:1 colchoncillo:4
+SECYT_mm_1_351 Tenía:0 esguinzado:3 el:1 tejido:1 muscular:4
+SECYT_mm_1_352 Ocurrírsele:3 maligna:0 idea:4
+SECYT_mm_1_353 Longuis:4 y:1 cantimpla:4 significan:1 tonto:4
+SECYT_mm_1_354 se:1 ganó:3 un:1 calientaplatos:4 y:0 una:1 freidora:4
+SECYT_mm_1_355 Salió:1 a:1 barrer:4 el:1 macadam:4
+SECYT_mm_1_356 Xenón:4 fue:1 prudente:4
+SECYT_mm_1_357 Le:1 gustaba:3 la:1 gaita:1 y:0 el:1 cantejondo:4
+SECYT_mm_1_358 Se:1 trata:3 de:0 una:1 runfla:1 mafiosa:4
+SECYT_mm_1_359 El:1 túnel:3 se:1 conecta:3 con:1 las:1 napas:1 friáticas:4
+SECYT_mm_1_360 Se:1 comporta:3 desenvueltamente:3 la:1 tontuela:4
+SECYT_mm_1_361 Lluvia:3 con:1 truenos:3 en:1 Medellín:4
+SECYT_mm_1_362 El:1 ciempiés:3 se:1 desplaza:3 por:0 el:1 tablón:4
+SECYT_mm_1_363 Se:0 encontraba:3 en:1 la:1 diáspora:3 de:0 aquel:0 enjambre:4
+SECYT_mm_1_364 Lograron:3 anclar:2 en:0 el:0 Atlántico:4
+SECYT_mm_1_365 Recomendó:4 un:1 trato:1 coloquial:4 a:1 la:1 niñez:4
+SECYT_mm_1_366 Los:1 poiquilotermos:4 son:0 aptos:3 para:1 cambiar:2 su:1 temperatura:4
+SECYT_mm_1_367 Vestía:3 un:1 tipoi:4 estilo:3 matriarcal:4
+SECYT_mm_1_368 Comenzó:3 a:0 arriar:3 la:1 jauría:4
+SECYT_mm_1_369 Estaba:1 envuelto:3 en:0 una:1 cherkera:4
+SECYT_mm_1_370 Cortó:3 el:1 vidrio:4 en:1 forma:2 de:1 cuadrángulo:4
+SECYT_mm_1_371 Las:1 termitas:4 taladran:3 la:1 jamba:2 de:1 madera:4
+SECYT_mm_1_372 El:1 berimbao:4 empezó:0 a:1 ritmar:3 con:0 el:1 bongó:4
+SECYT_mm_1_373 El:0 engaitador:4 era:3 non:1 sancto:4
+SECYT_mm_1_374 De:1 tan:1 redundante:3 empezó:0 a:0 aburrir:4
+SECYT_mm_1_375 Tuvo:3 que:0 expatriarse:3 por:1 su:0 antieslamismo:4
+SECYT_mm_1_376 Es:0 un:0 ejemplo:3 de:0 adopción:3 del:1 criollismo:4
+SECYT_mm_1_377 El:1 pirata:3 le:0 endilga:3 una:1 paliza:3 con:1 su:1 garfio:4
+SECYT_mm_1_378 Se:0 acostó:3 en:0 un:0 helechal:0 afelpado:4
+SECYT_mm_1_379 Su:1 política:0 anteiglesia:3 impedía:0 enfeudar:0 al:1 país:4
+SECYT_mm_1_380 Ella:3 frunce:4 cáusticamente:3 sus:1 labios:4
+SECYT_mm_1_381 El:1 médico:3 decidió:1 sustituirle:3 el:1 dispéptico:4
+SECYT_mm_1_382 El:0 hombre:0 ojienjuto:4 desfrunce:3 el:1 ceño:4
+SECYT_mm_1_383 El:0 hiato:3 en:1 la:1 piedra:3 comenzó:0 a:0 agrietarse:4
+SECYT_mm_1_384 Hallan:3 lignito:3 en:0 Argel:4
+SECYT_mm_1_385 Cumplen:3 con:1 la:1 ley:3 de:0 enfiteusis:4
+SECYT_mm_1_386 Su:0 habilidad:0 ambidextra:4 puede:0 apremiar:1 al:0 arco:1 rival:4
+SECYT_mm_1_387 No:1 lo:1 puede:1 sustituir:3 por:0 esa:1 friolera:4
+SECYT_mm_1_388 El:1 pluralismo:3 se:0 encontraba:0 enjaulado:4
+SECYT_mm_1_389 Desenjaula:3 los:1 bueyes:3 de:1 la:1 yuntería:4
+SECYT_mm_1_390 Debes:3 frotar:1 los:1 balaustros:3 con:1 viruta:4
+SECYT_mm_1_391 Se:0 ha:1 constituido:3 la:1 comisión:2 de:1 geropsiquiatría:3 para:0 el:1 trienio:4
+SECYT_mm_1_392 Tuvo:3 la:0 intuición:3 de:1 que:1 iba:0 a:0 enviudar:4
+SECYT_mm_1_393 Era:3 un:1 lugar:0 encrespado:3 y:1 lleno:2 de:1 pedriscos:4
+SECYT_mm_1_394 Tiene:1 motivos:3 para:0 alegrarse:3 si:0 enviuda:4
+SECYT_mm_1_395 Intentó:0 amainar:3 el:0 aplastamiento:4
+SECYT_mm_1_396 La:1 policía:3 incautó:3 quinientos:1 gramos:3 de:1 marihuana:4
+SECYT_mm_1_397 Hallan:3 dieciséis:1 kilos:2 de:1 pasta:2 de:1 cocaína:3 en:0 el:1 noroeste:1 del:1 país:4
+SECYT_mm_1_398 Habrá:3 una:1 presentación:1 legal:4 por:0 el:1 quebranto:3 de:1 la:0 administración:1 pública:4
+SECYT_mm_1_399 tratan:3 el:0 endeudamiento:2 de:1 Corrientes:4
+SECYT_mm_1_400 Es:0 una:1 mixtura:3 de:1 las:1 prácticas:1 religiosas:3 de:1 los:0 japoneses:4
+SECYT_mm_1_401 Hubo:1 gritos:1 y:1 festejos:3 por:0 el:1 desempeño:3 de:1 los:1 beisbolistas:0 españoles:4
+SECYT_mm_1_402 El:1 jueves:3 se:1 coronó:0 al:1 campeón:0 mundial:2 de:0 ajedrez:4
+SECYT_mm_1_403 Ganaron:3 dos:0 atletas:0 africanos:4
+SECYT_mm_1_404 Hubo:1 bullicio:3 en:1 la:1 fiesta:3 de:1 la:1 disco:1 Venus:4
+SECYT_mm_1_405 Contó:1 con:0 una:1 gran:1 producción:1 visual:4
+SECYT_mm_1_406 Todavía:4 persisten:3 una:1 serie:2 de:0 enigmas:4
+SECYT_mm_1_407 Los:1 cuentos:0 antigüos:4 tratan:1 sobre:0 el:1 periplo:2 de:0 Ulises:4
+SECYT_mm_1_408 Están:1 coartados:4 los:1 medios:1 tendientes:1 a:1 dar:1 soluciones:4
+SECYT_mm_1_409 El:1 buscador:1 de:0 oro:4 caminó:0 hasta:1 cerca:2 de:1 Brasilia:4
+SECYT_mm_1_410 Intenta:1 conseguir:0 ayuda:4
+SECYT_mm_1_411 Estos:2 fueron:3 cálculos:3 de:1 la:1 De:1 Ge:4 I:4
+SECYT_mm_1_412 La:1 lista:2 de:1 deudores:0 impositivos:3 rondará:1 los:1 diez:1 millones:4
+SECYT_mm_1_413 Le:1 dijo:1 embaucador:0 repugnante:3 al:1 gamberro:4
+SECYT_mm_1_414 es:0 un:1 furris:3 azumbrado:4
+SECYT_mm_1_415 Se:1 sintió:0 abochornado:4 porque:1 le:1 dijeron:3 piltrafa:4
+SECYT_mm_1_416 Parece:1 ramplón:3 el:1 zarramplín:4
+SECYT_mm_1_417 El:1 pruno:3 es:0 una:0 especie:2 de:1 ciruelo:4
+SECYT_mm_1_418 Se:1 sirvió:0 un:1 quianti:4 añejado:1 y:1 guindado:1 en:1 damajuana:4
+SECYT_mm_1_419 Sus:1 coplas:3 cultiban:0 el:1 dáctilo:4 y:1 forman:3 graciosos:0 acrósticos:4
+SECYT_mm_1_420 El:1 verso:3 es:0 un:1 díptico:3 de:1 perfecto:0 ictus:4
+SECYT_mm_1_421 El:1 quiasmo:3 y:0 el:1 circunloquio:4 abundan:1 en:1 su:1 poesía:4
+SECYT_mm_1_422 En:1 su:1 campo:3 cultivó:1 olmos:3 y:0 anacahuitas:4
+SECYT_mm_1_423 Plantó:1 un:0 urunday:4 y:1 chilcas:4
+SECYT_mm_1_424 Plantará:1 ñandubay:4 y:1 ceibos:4
+SECYT_mm_1_425 Rodeado:3 del:1 ceibal:1 y:0 el:1 coletuy:4 Plantó:1 una:1 tiaca:4
+SECYT_mm_1_426 Prefiere:3 un:0 acle:3 y:0 un:1 séchil:4
+SECYT_mm_1_427 El:0 episcopado:1 cristiano:3 rindió:1 homenaje:0 al:1 fraile:4
+SECYT_mm_1_428 La:1 oposición:0 anticlerical:1 y:0 anarquista:4 criticó:0 al:1 clero:4 arecía:1 frailesco:4
+SECYT_mm_1_429 Intentó:0 afrailar:1 a:1 los:0 jóvenes:4
+SECYT_mm_1_430 Los:1 guardias:4 hallaron:1 un:0 alambique:2 de:0 aguardiente:1 y:1 cúmel:4 en:0 el:1 recinto:4
+SECYT_mm_1_431 Los:0 hombres:1 del:0 islam:3 comieron:1 gazpacho:0 y:1 cuscús:4
+SECYT_mm_1_432 En:1 la:1 prueba:2 de:0 acrobacia:4 sorprendió:1 el:0 ágil:0 acróbata:0 atuerpience:4
+SECYT_mm_1_433 Se:1 verán:4 los:0 artículos:1 referentes:1 al:1 gerundio:3 y:1 la:1 frase:0 adverbial:4
+SECYT_mm_1_434 La:1 galactosa:4 es:0 adstringente:3 para:0 el:0 lactante:4
+SECYT_mm_1_435 Sus:0 acres:1 de:1 tierra:3 no:0 eran:0 mas:3 que:0 un:1 campichuelo:0 estéril:4 sin:0 humus:4
+SECYT_mm_1_436 En:1 la:1 cresta:1 de:1 la:0 ola:3 despilfarró:1 la:1 fortuna:3 de:0 aquel:0 año:1 próspero:4
+SECYT_mm_1_437 Impidieron:1 la:0 huida:3 del:1 máximo:1 dirigente:2 del:1 cártel:1 colombiano:4
+SECYT_mm_1_438 El:1 pedal:1 y:0 el:1 piñón:4 impulsan:1 a:1 la:1 bicicleta:4
+SECYT_mm_1_439 El:0 hidalgo:4 pidió:1 clemencia:3 al:1 guardián:4
+SECYT_mm_1_440 El:1 mambo:0 y:1 la:1 bamba:3 son:1 bailes:0 arriscados:4
+SECYT_mm_1_441 Una:1 mampara:3 réstica:3 refracta:1 la:1 luz:4
+SECYT_mm_1_442 Desenvaina:0 el:1 trinchete:3 y:1 corta:1 la:0 acelga:2 de:1 la:0 amelga:4
+SECYT_mm_1_443 El:1 piñoncito:0 averiado:3 gira:0 a:1 dextrorsum:4
+SECYT_mm_1_444 La:0 aislación:0 acústica:3 no:1 detuvo:1 el:1 zumbido:2 del:1 timbal:4
+SECYT_mm_1_445 El:1 norirlandés:3 viajó:1 de:1 Cochabamba:0 a:1 colombia:4
+SECYT_mm_1_446 La:1 pobreza:3 es:0 un:0 mal:1 crónico:4 donde:1 cunde:0 el:1 tifus:4
+SECYT_mm_1_447 El:0 infractor:4 se:0 ofusca:3 cuando:0 el:0 agente:1 lo:0 embauca:4
+SECYT_mm_1_448 El:1 cronista:3 relata:1 la:0 hidalguía:3 del:1 patriótico:0 ejército:2 de:1 Vietnam:4
+SECYT_mm_1_449 Esta:1 ficción:1 gauchesca:1 pampeana:3 sigue:0 al:1 costumbrismo:4
+SECYT_mm_1_450 El:0 odontólogo:3 usó:0 un:0 algodón:3 para:1 la:1 profilaxis:4
+SECYT_mm_1_451 En:1 la:0 antiguedad:4 creyeron:0 en:0 espíritus:1 nocturnos:4
+SECYT_mm_1_452 El:1 donjuanesco:3 gondolero:1 tusco:4 salió:0 avergonzado:4
+SECYT_mm_1_453 La:1 jurisprudencia:4 aplazó:0 el:1 referéndum:4 en:0 el:0 ayuntamiento:4
+SECYT_mm_1_454 La:1 servidumbre:3 pugna:3 por:1 llegar:0 al:1 corral:4
+SECYT_mm_1_455 Calambre:3 es:1 sinónimo:3 de:1 garrampa:4
+SECYT_mm_1_456 Ahora:1 viene:3 la:1 cocción:2 de:1 las:0 albóndigas:3 y:1 los:1 buñuelos:2 para:0 el:0 almuerzo:4
+SECYT_mm_1_457 El:1 taita:1 de:1 la:1 pampa:3 se:1 lleva:0 el:1 bombo:3 arriba:1 del:1 saino:4
+SECYT_mm_1_458 Le:1 dió:1 una:1 tundra:3 porque:0 acompañé:1 a:1 su:1 novia:4
+SECYT_mm_1_459 Tiene:1 muñeca:0 y:1 dedos:4 para:1 dar:0 un:1 rotundo:3 y:1 contundente:1 trompis:4
+SECYT_mm_1_460 Música:1 ficta:3 en:1 sí:1 bemol:4
+SECYT_mm_1_461 Los:0 afeites:1 del:1 veracruzano:3 son:1 simulacros:3 del:1 duro:1 trajín:4
+SECYT_mm_1_462 Tuve:3 que:0 aprender:0 hermenéutica:3 para:1 descifrar:1 la:1 jeringonza:2 del:1 fiscal:4
+SECYT_mm_1_463 El:1 croquis:3 indica:1 que:1 la:1 pistola:4 fue:1 guardada:0 en:0 el:1 cajoncito:4
+SECYT_mm_1_464 La:0 anfitriona:3 sufrió:3 un:0 esguince:1 en:0 el:0 empeine:4
+SECYT_mm_1_465 El:0 etnógrafo:3 estudió:0 un:1 grupo:0 étnico:2 del:1 Paraguay:4
+SECYT_mm_1_466 El:1 queso:1 Chester:3 y:0 el:1 estocafis:4 son:1 de:0 origen:0 inglés:4
+SECYT_mm_1_467 Nadie:1 pudo:0 adueñarse:3 de:1 la:1 bestia:0 iracunda:4
+SECYT_mm_1_468 Fue:0 a:1 tomarse:1 un:1 trinquis:4 de:1 vino:0 achampañado:1 al:1 bodegón:4
+SECYT_mm_1_469 Pretende:1 apaciguar:1 su:0 angurria:4
+SECYT_mm_1_470 El:1 fisco:3 cobrará:0 un:0 arancel:0 adicional:4
+SECYT_mm_1_471 El:1 concejal:1 coimero:4 está:0 en:1 la:1 cárcel:4
+SECYT_mm_1_472 El:1 dálmata:4 duerme:0 en:0 el:1 colchón:1 de:1 plumas:4
+SECYT_mm_1_473 En:0 el:1 zanjón:3 se:1 formó:0 un:1 riacho:3 que:0 inunda:1 la:1 barriada:4
+SECYT_mm_1_474 Hirvieron:0 un:1 bombón:4 y:1 chongos:0 zamoranos:4
+SECYT_mm_1_475 Le:1 dieron:3 píldoras:0 en:1 cápsulas:3 para:0 el:0 aneurisma:4
+SECYT_mm_1_476 Los:1 fotógrafos:3 capturan:0 en:0 una:0 imagen:3 la:1 bondad:0 de:1 la:1 selva:4
+SECYT_mm_1_477 Es:0 una:0 aglutinación:1 de:1 glucosa:3 fructosa:0 y:1 fosfatos:4
+SECYT_mm_1_478 El:1 baquiano:3 saca:0 un:1 tronco:3 de:1 la:0 acequia:4
+SECYT_mm_1_479 El:1 cabeza:1 de:1 chorlito:3 hace:1 las:1 cosas:0 al:1 tuntún:4
+SECYT_mm_1_480 El:1 patrón:3 conducía:0 el:1 quitrén:3 durante:0 el:0 arriamiento:4
+SECYT_mm_1_481 El:0 arte:4 es:0 intrínseco:3 a:1 la:1 didáctica:2 de:1 la:1 plástica:4
+SECYT_mm_1_482 El:1 corpúsculo:4 proviene:1 de:0 un:0 asteroide:3 de:1 la:1 vía:1 láctea:4
+SECYT_mm_1_483 Olvidó:0 el:1 significado:3 de:1 la:1 palabra:0 adipsia:4
+SECYT_mm_1_484 Leandro:4 quiere:1 bautizarse:3 en:1 la:1 fé:1 de:1 Jehová:4
+SECYT_mm_1_485 La:1 drogadicción:3 con:1 psicofármacos:4 es:0 un:1 verdadero:1 flagelo:4
+SECYT_mm_1_486 Baldomero:1 tiene:0 adicción:3 por:0 el:1 fútbol:4
+SECYT_mm_1_487 Le:1 gusta:1 contemplar:3 su:0 esbeltez:4 y:1 textura:4
+SECYT_mm_1_488 Su:1 creencia:1 en:0 el:0 horóscopo:3 me:1 dejó:0 estupefacto:4
+SECYT_mm_1_489 La:1 prueba:1 dactiloscópica:1 del:1 rufián:3 fue:0 insatisfactoria:4
+SECYT_mm_1_490 Alfonsina:0 escribió:3 fantásticos:0 alejandrinos:4
+SECYT_mm_1_491 El:1 pacifista:3 propuso:1 la:0 autogestión:0 medioambiental:4
+SECYT_mm_1_492 El:1 monje:0 hindú:4 no:0 es:1 panteísta:4
+SECYT_mm_1_493 Cortázar:3 escribió:0 un:1 libro:1 conceptual:4 y:0 autobiográfico:4
+SECYT_mm_1_494 Debuta:0 en:1 Jerusalén:4 el:1 cuádruple:1 campeón:2 de:1 vóleibol:4
+SECYT_mm_1_495 Piden:0 el:1 desafuero:3 del:1 consejo:1 gubernativo:1 provincial:4
+SECYT_mm_1_496 Delfina:3 se:1 deleitó:3 con:0 el:1 glacial:1 fueguino:4
+SECYT_mm_1_497 El:0 ejemplo:1 del:1 prócer:4 es:0 ilustrativo:3 de:1 la:1 gesta:1 triunfal:1 sanmartiniana:4
+SECYT_mm_1_498 Daniela:0 es:3 bienintencionada:4
+SECYT_mm_1_499 Le:1 dieron:1 la:1 bienvenida:3 a:1 Rubén:1 Beltrán:1 en:0 el:0 Abasto:4
+SECYT_mm_1_500 Andrea:3 sembró:0 el:1 césped:3 recientemente:4
+SECYT_mm_1_501 El:1 fascismo:4 es:0 un:1 sistema:3 coercitivo:0 y:1 nefasto:4
+SECYT_mm_1_502 Juanita:4 tiene:1 nostalgia:3 de:1 su:0 infancia:4
+SECYT_mm_1_503 El:1 truhán:3 le:1 tendió:0 una:0 emboscada:3 a:1 la:1 viejezuela:4
+SECYT_mm_1_504 El:1 plomero:3 hizo:0 un:1 curso:2 de:1 fontanería:4
+SECYT_mm_1_505 El:0 encuadernador:4 hizo:0 una:1 copia:1 mimeografiada:3 de:1 los:1 cuadernillos:4
+SECYT_mm_1_506 Intentaron:1 quebrantar:1 el:0 acuartelamiento:4
+SECYT_mm_1_507 El:0 autobús:2 veintidós:4 se:1 detuvo:1 en:0 el:0 andén:4
+SECYT_mm_1_508 La:1 comadreja:3 dormita:0 en:1 la:1 madreselva:4
+SECYT_mm_1_509 Laura:3 asistió:0 a:1 la:1 dramatización:1 dionisíaca:4
+SECYT_mm_1_510 Alquilé:0 un:1 ciclomotor:0 en:1 Pernambuco:4
+SECYT_mm_1_511 Gendarmería:3 abordará:0 el:1 problema:1 del:1 narcotráfico:4
+SECYT_mm_1_512 El:1 guardacostas:4 vislumbró:1 el:1 naufragar:1 del:1 buque:1 pesquero:4
+SECYT_mm_1_513 El:1 radioescucha:3 tiende:0 a:1 desconfiar:3 del:0 estilo:1 discursivo:4
+SECYT_mm_1_514 A:1 partir:1 del:1 resfrío:3 comenzó:0 a:0 afiebrarse:4
+SECYT_mm_1_515 El:1 mapamundi:4 es:0 una:1 muestra:3 de:1 la:1 superficie:1 terrestre:4
+SECYT_mm_1_516 El:1 clima:3 estuvo:1 nubloso:3 en:0 el:1 mediodía:1 campestre:4
+SECYT_mm_1_517 El:0 individualista:4 sólo:1 se:1 mira:0 el:0 ombligo:4
+SECYT_mm_1_518 El:0 engrudo:3 es:1 una:1 mezcla:3 de:0 harina:0 y:0 agua:4
+SECYT_mm_1_519 El:1 templo:2 de:1 base:1 rectangular:4 tiene:1 columnas:0 cilíndricas:4
+SECYT_mm_1_520 El:1 desempeño:3 de:1 Victor:1 Guapinol:1 en:1 las:0 olimpíadas:4 fue:1 mediocre:4
+SECYT_mm_1_521 La:1 cohorte:3 deberá:0 escoltar:4 al:1 pabellón:1 patrio:4
+SECYT_mm_1_522 La:1 bronquitis:3 le:1 produjo:1 fiebre:4
+SECYT_mm_1_523 Proponen:1 reexaminar:2 el:1 régimen:1 de:0 aeropuertos:4
+SECYT_mm_1_524 Entonces:4 Jesús:2 habló:0 al:0 apóstol:4
+SECYT_mm_1_525 El:1 radiotransmisor:3 funciona:2 a:1 doscientos:1 veinte:1 voltios:4
+SECYT_mm_1_526 El:1 conocido:1 contralto:3 entonó:1 la:1 rapsodia:4
+SECYT_mm_1_527 Le:0 extirparon:3 un:1 tumor:1 craneano:4
+SECYT_mm_1_528 Reencuentro:3 ante:1 la:0 inminente:1 fractura:3 del:1 partido:1 democristiano:4
+SECYT_mm_1_529 El:1 coadministrador:4 se:0 encargará:3 de:1 la:1 propiedad:4
+SECYT_mm_1_530 Se:0 observa:3 cierta:1 turbiedad:0 del:0 aire:2 en:0 el:1 firmamento:4
+SECYT_mm_1_531 Ofuscación:3 por:0 el:1 trasfondo:1 fraudulento:1 entre:1 la:0 agrupación:0 oficialista:1 y:1 la:1 mafia:4
+SECYT_mm_1_532 El:1 físico:1 checoeslovaco:3 realizó:1 la:1 demostración:2 con:1 rigor:4
+SECYT_mm_1_533 Brindaron:0 un:1 brebaje:3 de:4 té:1 de:1 boldo:4
+SECYT_mm_1_534 Sobrestiman:3 la:0 incidencia:3 de:1 rayos:0 ultravioletas:4
+SECYT_mm_1_535 El:0 huertero:4 cultivó:1 perejil:4 choclo:1 y:0 ají:4
+SECYT_mm_1_536 El:1 jardinero:4 prefiere:0 el:1 jazmín:1 silvestre:4 al:0 ligustro:4
+SECYT_mm_1_537 Debió:1 ponderar:3 la:0 ingeniosidad:0 del:1 ñato:4
+SECYT_mm_1_538 Van:0 a:0 asfaltar:3 el:1 camino:1 polvoriento:4
+SECYT_mm_1_539 Gabi:1 quedó:0 ahíta:3 ante:0 el:1 resplandor:2 de:1 la:0 esmeralda:0 y:0 el:1 rubí:4
+SECYT_mm_1_540 El:1 pronóstico:1 de:1 la:0 esfinge:4 es:0 abrumador:4
+SECYT_mm_1_541 El:1 carpintero:4 usa:0 hábilmente:3 las:1 fresas:1 y:1 las:1 gubias:4
+SECYT_mm_1_542 El:1 gremialista:3 reivindicó:1 el:1 cobro:2 del:0 aguinaldo:4
+SECYT_mm_1_543 Sirvió:0 un:1 chupín:1 de:1 pescado:3 con:0 ostras:0 y:0 hongos:4
+SECYT_mm_1_544 El:1 manuscrito:3 era:0 un:1 verdadero:1 jeroglífico:4
+SECYT_mm_1_545 La:1 fricativa:1 gingival:3 se:0 articula:1 con:0 el:1 predorso:2 de:1 la:1 lengua:4
+SECYT_mm_1_546 El:1 pueblo:1 guatemalteco:3 va:0 a:1 las:0 urnas:4
+SECYT_mm_1_547 Se:1 percibe:0 en:1 la:1 llanura:4 la:1 pintoresca:0 imagen:3 del:1 sorgo:0 y:1 la:0 alfalfa:4
+SECYT_mm_1_548 El:1 ballestero:4 coloca:1 la:1 flecha:3 en:1 la:1 ballesta:4
+SECYT_mm_1_549 Germán:2 pidió:1 turno:3 para:0 el:1 dentista:4
+SECYT_mm_1_550 En:0 el:1 pantano:3 hay:1 caña:1 de:1 bambú:0 y:1 tulipán:4
+SECYT_mm_1_551 Usaba:0 un:1 guante:3 bordado:2 con:1 lentejuelas:4
+SECYT_mm_1_552 El:1 cazabombardero:3 lanzó:1 proyectiles:3 contra:1 la:1 metrópolis:4
+SECYT_mm_1_553 El:1 capataz:4 tiene:0 un:1 trato:1 injustificado:2 con:1 los:0 jornaleros:4
+SECYT_mm_1_554 Fueron:0 a:1 sesgar:0 el:1 maizal:4
+SECYT_mm_1_555 Hacen:0 un:1 balance:1 retrospectivo:3 sobre:1 la:0 industrialización:1 del:1 país:4
+SECYT_mm_1_556 Laurentino:4 es:1 bromista:1 y:1 chistoso:4
+SECYT_mm_1_557 El:1 coatí:4 es:0 asustadizo:3 y:1 difícil:1 de:0 adiestrar:4
+SECYT_mm_1_558 Fue:1 conflictiva:3 la:1 nueva:1 reglamentación:2 para:0 el:0 estudiantado:4
+SECYT_mm_1_559 El:0 águila:1 y:0 el:1 chajá:4 se:1 disputan:3 la:1 lagartija:0 hedionda:4
+SECYT_mm_1_560 Silva:3 compuso:0 un:1 comedión:3 sarcástico:0 y:1 rocambolesco:4
+SECYT_mm_1_561 El:0 exorcista:3 es:0 un:1 personaje:1 fantasmal:4 y:1 noctámbulo:4
+SECYT_mm_1_562 La:1 tempestad:3 produjo:3 el:1 atascamiento:0 en:1 la:0 autopista:4
+SECYT_mm_1_563 Realizó:0 un:0 experimento:3 de:0 electromagnetismo:3 con:0 un:1 péndulo:4
+SECYT_mm_1_564 El:1 sexteto:3 tiene:0 viola:3 y:0 saxofón:4
+SECYT_mm_1_565 Su:1 capricho:2 por:0 el:1 caleidoscopio:3 es:0 una:1 puerilidad:4
+SECYT_mm_1_566 Apretó:1 las:0 espuelas:3 del:1 bravo:1 pingo:1 cimarrón:4
+SECYT_mm_1_567 Florencia:0 habla:2 el:1 dialecto:3 luxemburgués:4
+SECYT_mm_1_568 Tiene:0 una:1 lastimadura:1 desde:0 el:1 pectoral:4 hasta:1 la:1 pelvis:4
+SECYT_mm_1_569 Indignación:3 por:0 el:1 taxista:3 asesinado:0 en:1 flandria:4
+SECYT_mm_1_570 Piensan:1 registrar:3 trescientas:1 faltas:1 de:1 tránsito:3 por:1 día:4
+SECYT_mm_1_571 Comieron:1 chancho:1 deshuesado:3 y:1 truchas:4
+SECYT_mm_1_572 Realte:3 arrojo:1 el:1 talismán:0 a:0 la:1 marchanta:4
+SECYT_mm_1_573 Saltamontes:2 dibujo:1 una:0 acuarela:3 en:0 el:1 papel:0 apaisado:4
+SECYT_mm_1_574 Vidueña:3 es:0 un:1 rufiancete:1 desafiador:4
+SECYT_mm_1_575 Más:0 allá:0 de:1 la:1 glorieta:4 se:1 puede:1 visualizar:0 el:1 desván:0 adintelado:1 con:1 tragaluz:4
+SECYT_mm_1_576 la:1 gordinflona:4 piensa:1 que:0 adelgazar:4 es:1 cosa:1 de:1 mandinga:4
+SECYT_mm_1_577 Empezó:3 a:1 deflorar:0 el:1 duraznero:4
+SECYT_mm_1_578 La:1 burguesía:1 del:1 virreinato:3 debió:0 acriollarse:4
+SECYT_mm_1_579 La:1 sociedad:1 burguesa:4 era:0 anglófila:4 y:0 afrancesada:4
+SECYT_mm_1_580 Quería:3 participar:2 de:1 los:1 privilegios:1 del:1 señorío:4
+SECYT_mm_1_581 Intentó:1 desenmascarar:0 al:0 asaltante:4 en:0 el:0 enjuiciamiento:4
+SECYT_mm_1_582 La:1 salsa:0 es:0 un:1 ritmo:2 danzante:1 del:1 trópico:4
+SECYT_mm_1_583 El:0 letrista:1 compuso:3 cielitos:4 zambas:2 y:1 villancicos:4
+SECYT_mm_1_584 La:1 soprano:0 entonó:1 con:1 frescura:3 el:0 himno:1 de:1 la:0 alegría:4
+SECYT_mm_1_585 El:0 inmigrante:1 yugoeslavo:3 llevaba:0 una:1 vida:0 estoica:4
+SECYT_mm_1_586 A:1 la:1 gallinita:4 le:1 pegaron:2 un:1 pantuflazo:0 en:1 la:1 cerviz:4
+SECYT_mm_1_587 El:1 galgo:3 persigue:0 a:1 la:1 perdiz:4
+SECYT_mm_1_588 El:0 haragán:3 estaba:0 enfrascado:3 en:1 su:1 periódico:4
+SECYT_mm_1_589 Ojalá:2 descifre:3 el:1 criptograma:4
+SECYT_mm_1_590 La:0 orquesta:1 filarmónica:1 belga:3 ejecutará:4 la:1 buenaventura:4
+SECYT_mm_1_591 La:1 paleontóloga:4 descubrió:1 un:0 ictosaurio:3 genuino:4
+SECYT_mm_1_592 Franco:1 quiere:1 disfrutar:3 de:1 la:1 música:1 flamenca:4
+SECYT_mm_1_593 El:1 mariachi:3 ejecutó:1 una:1 pieza:0 arrítmica:4 y:1 bochinchera:4
+SECYT_mm_1_594 El:0 arrendatario:4 pagó:1 su:1 renta:3 con:0 un:1 cheque:4
+SECYT_mm_1_595 El:1 cochabambino:3 viajó:0 a:1 Potosí:4
+SECYT_mm_1_596 El:1 viaje:1 por:1 Marruecos:4 fue:0 asombroso:4
+SECYT_mm_1_597 Jacinto:1 llevaba:1 un:1 crespón:0 en:0 el:1 sombrero:4
+SECYT_mm_1_598 Surtir:0 el:0 insecticida:3 diluído:4 uno:0 a:0 la:1 decimoquinta:4
+SECYT_mm_1_599 El:1 cuentista:1 publica:3 en:1 la:0 editorial:3 el:1 quirquincho:4
+SECYT_mm_1_600 El:1 ganso:1 picotea:1 la:0 hojarasca:3 en:1 busca:1 de:0 una:1 lombriz:4
