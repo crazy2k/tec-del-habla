@@ -1,0 +1,193 @@
+#LyX 1.6.7 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\date{}
+\setcounter{page}{-1}
+\end_preamble
+\use_default_options true
+\language spanish
+\inputencoding auto
+\font_roman palatino
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip smallskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\shape smallcaps
+\size huge
+Trabajo Práctico Nº2: 
+\begin_inset Newline newline
+\end_inset
+
+Análisis Lingüístico y Prosódico
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\shape smallcaps
+\size large
+Introducción a las Tecnologías del Habla
+\end_layout
+
+\begin_layout Standard
+\align center
+Departamento de Computación,
+\begin_inset Newline newline
+\end_inset
+
+Facultad de Ciencias Exactas y Naturales,
+\begin_inset Newline newline
+\end_inset
+
+Universidad de Buenos Aires
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\shape italic
+Segundo Cuatrimestre de 2010
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="3">
+<features>
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<row topspace="default">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Pablo Antonio
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+290/08
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pabloa@gmail.com
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Introducción
+\end_layout
+
+\begin_layout Standard
+El grado de juntura entre palabras da una idea del límite existente entre
+ ellas, y permite diferenciar segmentos en las frases.
+\end_layout
+
+\begin_layout Standard
+Para este trabajo práctico, se construyó un clasificador automático capaz
+ de predecir, con cierto grado de precisión, el grado de juntura correspondiente
+ al final de palabras arbitrarias.
+\end_layout
+
+\begin_layout Standard
+Para esto, se contó con una base de datos conformada por 600 oraciones en
+ español.
+ Estas oraciones fueron grabadas por una locutora profesional y 
+\end_layout
+
+\end_body
+\end_document
