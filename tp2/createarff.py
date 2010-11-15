@@ -3,10 +3,8 @@
 import os
 import sys
 
-INPUT_FNAME = "tp2-textos.txt"
-
 FREELING_CFG = "/usr/share/FreeLing/config/es.cfg"
-TEMP_FNAME = "TEMP"
+TEMP_FNAME = "TEMPFILE"
 
 TAG_SIZE = 8
 VOWELS = ["a", "e", "i", "o", "u"]
@@ -138,6 +136,12 @@ def process_file(fname):
  
 
 if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        sys.stderr.write("Uso: %s <archivo de entrada>\n" % sys.argv[0])
+        sys.exit(1)
+
+    input_fname = sys.argv[1]
+
     header = """
 @RELATION joint
 
@@ -169,5 +173,5 @@ if __name__ == "__main__":
 """
     sys.stdout.write(header)
 
-    process_file(INPUT_FNAME)
+    process_file(input_fname)
        
