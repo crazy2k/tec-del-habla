@@ -63,14 +63,12 @@ def get_POS_tags(splt_sentence):
 def get_attributes(word_data):
     keys = word_data.keys()
     keys.sort()
-    # joint tiene que ir al final
-    keys.remove("joint")
-    keys.append("joint")
+    # juncture tiene que ir al final
+    keys.remove("juncture")
+    keys.append("juncture")
 
     # reemplazamos cada clave por su valor
     fields = [str(word_data[k]) for k in keys]
-
-    print keys
 
     return ",".join(fields)
 
@@ -86,7 +84,7 @@ def process_file(fname):
 
         # tomamos las palabras y sus junturas de la linea de entrada
         words_data = [
-            {"word": wj.split(":")[0], "joint": wj.split(":")[1]} \
+            {"word": wj.split(":")[0], "juncture": wj.split(":")[1]} \
                 for wj in splt_lbl_sentence]
 
         # limpiamos la entrada (quitamos la informacion de junturas)
@@ -143,7 +141,7 @@ if __name__ == "__main__":
     input_fname = sys.argv[1]
 
     header = """
-@RELATION joint
+@RELATION juncture
 
 @ATTRIBUTE attr_0           STRING
 @ATTRIBUTE attr_1           STRING
