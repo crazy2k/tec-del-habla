@@ -5,7 +5,8 @@
 \textclass article
 \begin_preamble
 \date{}
-\setcounter{page}{-1}
+\setcounter{page}{0}
+\definecolor{light-gray}{gray}{0.97}
 \end_preamble
 \use_default_options true
 \language spanish
@@ -173,20 +174,1278 @@ Introducción
 \end_layout
 
 \begin_layout Standard
-El grado de juntura entre palabras da una idea del límite existente entre
- ellas, y permite diferenciar segmentos en las frases.
+El 
+\emph on
+grado de juntura
+\emph default
+ entre palabras da una idea del límite existente entre ellas, y permite
+ diferenciar unidades en las frases.
 \end_layout
 
 \begin_layout Standard
 Para este trabajo práctico, se construyó un clasificador automático capaz
- de predecir, con cierto grado de precisión, el grado de juntura correspondiente
+ de predecir, con cierta precisión, el grado de juntura correspondiente
  al final de palabras arbitrarias.
 \end_layout
 
 \begin_layout Standard
 Para esto, se contó con una base de datos conformada por 600 oraciones en
  español.
- Estas oraciones fueron grabadas por una locutora profesional y 
+ Estas oraciones fueron grabadas por una locutora profesional y la prosodia
+ de cada grabación fue etiquetada según la convención ToBI (versión para
+ el español).
+\end_layout
+
+\begin_layout Standard
+De todas las capas de ToBI, sólo interesó, para este trabajo, la capa de
+ junturas entre palabras.
+ En el etiquetado, cada juntura tiene asignado uno de cinco valores valores
+ posibles:
+\end_layout
+
+\begin_layout Description
+0: sin límite entre dos palabras,
+\end_layout
+
+\begin_layout Description
+1: límite normal entre dos palabras,
+\end_layout
+
+\begin_layout Description
+2: fuerte separación pero sin marca tonal,
+\end_layout
+
+\begin_layout Description
+3: final de frase intermedia,
+\end_layout
+
+\begin_layout Description
+4: final de frase entonacional.
+\end_layout
+
+\begin_layout Standard
+La idea del trabajo práctico era extraer atributos lingüísticos y contextuales
+ de las oraciones de entrada, de modo que permitieran entrenar a un clasificador
+ para que este pueda predecir el grado de juntura al final de palabras arbitrari
+as.
+\end_layout
+
+\begin_layout Section*
+Atributos lingüísticos y contextuales elegidos
+\end_layout
+
+\begin_layout Standard
+Para poder entrenar al clasificador, es necesario contar con instancias
+ compuestas por varios atributos.
+ Cada instancia representará a una palabra en alguna de las oraciones de
+ entrada, y sus atributos serán elegidos según características lingüísticas
+ y contextuales de la palabra en su oración.
+\end_layout
+
+\begin_layout Standard
+Se eligieron los siguientes atributos para caracterizar cada instancia con
+ la que se entrenaría el clasificador:
+\end_layout
+
+\begin_layout Description
+attr_0
+\begin_inset Formula $\,$
+\end_inset
+
+-
+\begin_inset Formula $\,$
+\end_inset
+
+attr_7 Valor de la posición 
+\begin_inset Formula $i$
+\end_inset
+
+-ésima en el 
+\emph on
+part-of-speech tag
+\emph default
+ de la palabra devuelto por Freeling
+\end_layout
+
+\begin_layout Description
+ends_with 
+\family typewriter
+V
+\family default
+ o 
+\family typewriter
+C,
+\family default
+ si la palabra termina en vocal o consonante respectivamente
+\end_layout
+
+\begin_layout Description
+first_word 
+\family typewriter
+True
+\family default
+ o 
+\family typewriter
+False,
+\family default
+ si la palabra es primera en la oración o no respectivamente
+\end_layout
+
+\begin_layout Description
+last_word 
+\family typewriter
+True
+\family default
+ o 
+\family typewriter
+False,
+\family default
+ si la palabra es última en la oración o no respectivamente
+\end_layout
+
+\begin_layout Description
+length Cantidad de letras de la palabra
+\end_layout
+
+\begin_layout Description
+next_is_verb 
+\family typewriter
+True
+\family default
+ o 
+\family typewriter
+False,
+\family default
+ si la siguiente palabra en la oración es un verbo o no respectivamente
+\end_layout
+
+\begin_layout Description
+next_length Cantidad de letras de la siguiente palabra en la oración
+\end_layout
+
+\begin_layout Description
+next_starts_with 
+\family typewriter
+V
+\family default
+ o 
+\family typewriter
+C,
+\family default
+ si la siguiente palabra en la oración termina en vocal o consonante respectivam
+ente
+\end_layout
+
+\begin_layout Description
+next_word La siguiente palabra en la oración
+\end_layout
+
+\begin_layout Description
+word La palabra
+\end_layout
+
+\begin_layout Description
+words_after Cantidad de palabras siguientes en la oración
+\end_layout
+
+\begin_layout Description
+words_after_perc Cantidad de palabras siguientes en la oración sobre palabras
+ totales de la oración
+\end_layout
+
+\begin_layout Description
+words_before Cantidad de palabras anteriores en la oración
+\end_layout
+
+\begin_layout Description
+words_before_perc Cantidad de palabras anteriores en la oración sobre palabras
+ totales de la oración
+\end_layout
+
+\begin_layout Section*
+Experimentos realizados
+\end_layout
+
+\begin_layout Standard
+Para todos los experimentos, se utilizó la aplicación Weka, la cual cuenta,
+ entre otras cosas, con un número de algoritmos de 
+\emph on
+machine learning 
+\emph default
+incorporados.
+\end_layout
+
+\begin_layout Standard
+En primer lugar, se realizaron experimentos sólo con los atributos: 
+\series bold
+attr_0
+\begin_inset Formula $\,$
+\end_inset
+
+-
+\begin_inset Formula $\,$
+\end_inset
+
+attr_7, first_word, last_word, word, words_after, words_after_perc, words_before
+, words_before_perc.
+\end_layout
+
+\begin_layout Standard
+El primer algoritmo de clasificación utilizado fue 
+\family typewriter
+ZeroR
+\family default
+, un algoritmo que predice la media (para clases numéricas) o la moda (para
+ clases nominales).
+ Este algoritmo fue usado como referencia inicial para poder comparar sus
+ resultados con los del resto.
+\end_layout
+
+\begin_layout Standard
+Tanto en este como en el resto de los experimentos, se utilizó validación
+ cruzada de 5 conjuntos.
+ Los resultados que arrojó son los siguientes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="3">
+<features>
+<column alignment="left" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas correctamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1817$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $42.0699\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas incorrectamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2502$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $57.9301\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Matriz de confusión:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset listings
+lstparams "backgroundcolor={\color{light-gray}},frame=lines,framexleftmargin=10pt,xleftmargin=25pt"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+    a    b    c    d    e   <-- classified as
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  806    0    0    0 |    a = 0
+\end_layout
+
+\begin_layout Plain Layout
+
+    0 1817    0    0    0 |    b = 1
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  207    0    0    0 |    c = 2
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  644    0    0    0 |    d = 3
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  845    0    0    0 |    e = 4
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El siguiente algoritmo utilizado fue 
+\family typewriter
+J48
+\family default
+ (árboles de decisión), y los resultados fueron los siguientes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="3">
+<features>
+<column alignment="left" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas correctamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2417$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $55.962\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas incorrectamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1902$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $44.038\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Matriz de confusión:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset listings
+lstparams "backgroundcolor={\color{light-gray}},frame=lines,framexleftmargin=10pt,xleftmargin=25pt"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+    a    b    c    d    e   <-- classified as
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  806    0    0    0 |    a = 0
+\end_layout
+
+\begin_layout Plain Layout
+
+    0 1817    0    0    0 |    b = 1
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  207    0    0    0 |    c = 2
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  644    0    0    0 |    d = 3
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  245    0    0  600 |    e = 4
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Por último, se utilizó el algoritmo 
+\family typewriter
+JRip
+\family default
+ (aprendizaje de reglas).
+ Estos fueron sus resultados:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="3">
+<features>
+<column alignment="left" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas correctamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2548$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $58.9951\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas incorrectamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1771$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $41.0049\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Matriz de confusión:
+\end_layout
+
+\begin_layout Standard
+\begin_inset listings
+lstparams "backgroundcolor={\color{light-gray}},frame=lines,framexleftmargin=10pt,xleftmargin=25pt"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+    a    b    c    d    e   <-- classified as
+\end_layout
+
+\begin_layout Plain Layout
+
+   11  763    4   28    0 |    a = 0
+\end_layout
+
+\begin_layout Plain Layout
+
+   20 1702    4   91    0 |    b = 1
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  167    3   37    0 |    c = 2
+\end_layout
+
+\begin_layout Plain Layout
+
+    2  409    1  232    0 |    d = 3
+\end_layout
+
+\begin_layout Plain Layout
+
+    0  146    2   97  600 |    e = 4
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Luego se utilizó un evaluador de atributos para entender mejor la importancia
+ de cada atributo en el resultado final y para eliminar aquellos que no
+ aportaran demasiado.
+ El evaluador utilizado fue 
+\family typewriter
+InfoGainAttributeEval
+\family default
+, que define la importancia de un atributo midiendo la ganancia de información
+ con respecto a la clase.
+ El 
+\emph on
+ranking
+\emph default
+ arrojado fue el siguiente:
+\end_layout
+
+\begin_layout Standard
+\begin_inset listings
+lstparams "backgroundcolor={\color{light-gray}},frame=lines,framexleftmargin=10pt,xleftmargin=25pt"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+Ranked attributes:
+\end_layout
+
+\begin_layout Plain Layout
+
+ 1.640329  11 word
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.49456   13 wordsafterperc
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.473627  12 wordsafter
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.461963   1 attr_0
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.42425   15 wordsbeforeperc
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.411458  10 lastword
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.381379   2 attr_1
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.297873   3 attr_2
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.16752    4 attr_3
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.137333  14 wordsbefore
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.088704   5 attr_4
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.031591   6 attr_5
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.030401   9 firstword
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.010885   7 attr_6
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.000545   8 attr_7 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se quitaron los 5 peores atributos de este ranking, y se volvió a clasificar
+ con 
+\family typewriter
+J48 
+\family default
+y 
+\family typewriter
+J
+\family default
+Rip.
+ El resultado fue ligeramente peor al obtenido anteriormente.
+\end_layout
+
+\begin_layout Standard
+Luego se quitó solamente el último atributo del ranking, y se obtuvieron
+ resultados ligeramente mejores a los primeros.
+\end_layout
+
+\begin_layout Standard
+Con el objetivo de mejorar aún más los resultados, se agregaron los demás
+ atributos mencionados en la sección anterior.
+ Usando 
+\family typewriter
+J48
+\family default
+, los resultados fueron:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="3">
+<features>
+<column alignment="left" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas correctamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2946$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $68.2102\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas incorrectamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1373$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $31.789\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Matriz de confusión:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset listings
+lstparams "backgroundcolor={\color{light-gray}},frame=lines,framexleftmargin=10pt,xleftmargin=25pt"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+    a    b    c    d    e   <-- classified as
+\end_layout
+
+\begin_layout Plain Layout
+
+  663  143    0    0    0 |    a = 0
+\end_layout
+
+\begin_layout Plain Layout
+
+  134 1683    0    0    0 |    b = 1
+\end_layout
+
+\begin_layout Plain Layout
+
+   21  186    0    0    0 |    c = 2
+\end_layout
+
+\begin_layout Plain Layout
+
+  185  459    0    0    0 |    d = 3
+\end_layout
+
+\begin_layout Plain Layout
+
+   77  168    0    0  600 |    e = 4
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Y usando 
+\family typewriter
+JRip
+\family default
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="3">
+<features>
+<column alignment="left" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<column alignment="right" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas correctamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3168$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $73.3503\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Instancias clasificadas incorrectamente:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1151$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $26.6497\%$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Matriz de confusión:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset listings
+lstparams "backgroundcolor={\color{light-gray}},frame=lines,framexleftmargin=10pt,xleftmargin=25pt"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+    a    b    c    d    e   <-- classified as
+\end_layout
+
+\begin_layout Plain Layout
+
+  560  219    4   23    0 |    a = 0
+\end_layout
+
+\begin_layout Plain Layout
+
+   65 1654   32   66    0 |    b = 1
+\end_layout
+
+\begin_layout Plain Layout
+
+    6  109   63   29    0 |    c = 2
+\end_layout
+
+\begin_layout Plain Layout
+
+   35  298   21  289    1 |    d = 3
+\end_layout
+
+\begin_layout Plain Layout
+
+   11  140    0   92  602 |    e = 4
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nuevamente, se utilizó un evaluador de atributos y el ranking que arrojó
+ fue el siguiente:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset listings
+lstparams "backgroundcolor={\color{light-gray}},frame=lines,framexleftmargin=10pt,xleftmargin=25pt"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+Ranked attributes:
+\end_layout
+
+\begin_layout Plain Layout
+
+ 1.640329   17 word
+\end_layout
+
+\begin_layout Plain Layout
+
+ 1.529646   16 nextword
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.671679   15 nextstartswith
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.516579   14 nextlength
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.49456    19 wordsafterperc
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.473627   18 wordsafter
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.461963    1 attr_0
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.42425    21 wordsbeforeperc
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.411458   11 lastword
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.391802   12 length
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.381379    2 attr_1
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.297873    3 attr_2
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.16752     4 attr_3
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.137333   20 wordsbefore
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.088704    5 attr_4
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.031591    6 attr_5
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.030401   10 firstword
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.02448    13 nextisverb
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.010885    7 attr_6
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.005594    9 endswith
+\end_layout
+
+\begin_layout Plain Layout
+
+ 0.000545    8 attr_7
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se quitaron los últimos dos atributos y luego sólo el último y se volvió
+ a clasificar con 
+\family typewriter
+J48
+\family default
+ y 
+\family typewriter
+JRip
+\family default
+.
+ Para el caso de 
+\family typewriter
+J48
+\family default
+, no hubo ninguna diferencia en los resultados.
+ Sin embargo, para 
+\family typewriter
+JRip
+\family default
+, al sacarle el último atributo hubo una disminución en el porcentaje de
+ instancias clasificadas correctamente y al sacarle los últimos dos el resultado
+ fue aún peor.
+\end_layout
+
+\begin_layout Standard
+El modelo final comprende todos los 22 atributos y usa 
+\family typewriter
+JRip
+\family default
+.
 \end_layout
 
 \end_body
