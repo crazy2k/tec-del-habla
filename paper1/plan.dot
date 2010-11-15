@@ -1,0 +1,12 @@
+digraph asr {
+    nodesep=1.7
+    rankdir=LR
+    "start" [shape="point"];
+    "puntito" [shape="point"];
+
+    "start" -> "1" [label="Ehm", style="dotted", dir="none"]
+    "start" -> "1" [label="Veamos", style="dotted", dir="none"];
+    "1" -> "puntito" [label="Para", dir="none"];
+    "puntito" -> "6" [label="qué", dir="none"];
+    "6" -> "7" [label="día", dir="none"];
+}

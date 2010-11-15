@@ -1,0 +1,11 @@
+digraph jindigo {
+    ranksep=0.0001
+    "User" -> "ASR" [label="Speech"]
+    "ASR" -> "Interpreter" [label="Word"]
+    "Interpreter" -> "Contextualizer" [label="Phrase"]
+    "Contextualizer" -> "ActionManager" [label="Context"]
+    "ActionManager" -> "Vocalizer" [label="SpeechPlan"]
+    "Vocalizer" -> "User" [label="Speech"]
+    "ASR" -> "Vocalizer" [label="Utterance segment"]
+    "Vocalizer" -> "Contextualizer" [label="Concept"]
+}

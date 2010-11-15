@@ -1,0 +1,11 @@
+digraph asr {
+    nodesep=1.7
+    rankdir=RL
+    "8" -> "7" [label="Madrid"];
+    "7" -> "6" [label="a"];
+    "6" -> "5" [label="pasaje", rankdir="TB"];
+    "5" -> "4" [label="un"];
+    "4" -> "3" [label="reservar"];
+    "3" -> "2" [label="Quiero"];
+    "2" -> "1" [label="Hola"];
+}
