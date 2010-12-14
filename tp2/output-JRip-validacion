@@ -1,0 +1,81 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     juncture-weka.filters.unsupervised.attribute.StringToNominal-Rfirst-last
+Instances:    966
+Attributes:   22
+              attr_0
+              attr_1
+              attr_2
+              attr_3
+              attr_4
+              attr_5
+              attr_6
+              attr_7
+              endswith
+              firstword
+              lastword
+              length
+              nextisverb
+              nextlength
+              nextstartswith
+              nextword
+              word
+              wordsafter
+              wordsafterperc
+              wordsbefore
+              wordsbeforeperc
+              class
+Test mode:    5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(length >= 5) and (wordsafterperc >= 0.416667) and (wordsafter <= 4) and (wordsafterperc >= 0.6) and (attr_3 = S) => class=3 (22.0/5.0)
+(lastword = True) => class=4 (141.0/0.0)
+(length >= 5) and (nextword = es) and (wordsafter >= 5) => class=4 (7.0/0.0)
+(length >= 6) and (attr_1 = P) and (endswith = C) => class=4 (4.0/0.0)
+(nextstartswith = V) and (length <= 4) => class=0 (136.0/9.0)
+(nextstartswith = V) and (wordsbeforeperc >= 0.555556) => class=0 (34.0/7.0)
+(nextstartswith = V) and (attr_4 = 3) => class=0 (33.0/10.0)
+(nextstartswith = V) and (length <= 5) => class=0 (11.0/3.0)
+ => class=1 (578.0/234.0)
+
+Number of Rules : 9
+
+
+Time taken to build model: 0.53 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         688               71.2215 %
+Incorrectly Classified Instances       278               28.7785 %
+Kappa statistic                          0.5958
+Mean absolute error                      0.1647
+Root mean squared error                  0.2978
+Relative absolute error                 55.4945 %
+Root relative squared error             77.3206 %
+Total Number of Instances              966     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.763     0.072      0.78      0.763     0.771      0.886    0
+                 0.909     0.259      0.667     0.909     0.77       0.858    1
+                 0         0          0         0         0          0.647    2
+                 0.264     0.074      0.378     0.264     0.311      0.685    3
+                 0.751     0.008      0.961     0.751     0.843      0.913    4
+Weighted Avg.    0.712     0.124      0.688     0.712     0.689      0.843
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+ 184  44   0  12   1 |   a = 0
+   7 319   0  24   1 |   b = 1
+   6  22   0   9   0 |   c = 2
+  30  69   0  37   4 |   d = 3
+   9  24   0  16 148 |   e = 4
+
